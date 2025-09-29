@@ -101,10 +101,9 @@
                   >
                     <i class="fas fa-fingerprint"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Verified Company</h6>
+                  <h6 class="text-xl font-semibold">E-commerce</h6>
                   <p class="mt-2 mb-4 text-blueGray-500">
-                    Write a few lines about each one. A paragraph describing a
-                    feature will be enough. Keep you user engaged!
+                    In the fast-paced world of e-commerce, we deliver scalable and secure solutions to enhance customer experiences and streamline operations.
                   </p>
                 </div>
               </div>
@@ -116,7 +115,7 @@
               <div
                 class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
               >
-                <i class="fas fa-user-friends text-xl"></i>
+                <i class="fas fa-train text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
                 Working with us is a pleasure
@@ -124,25 +123,23 @@
               <p
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
               >
-                Don't let your uses guess by attaching tooltips and popoves to
-                any element. Just make sure you enable them first via
-                JavaScript.
+                We prioritize collaboration and communication, ensuring that your
+                needs are met every step of the way.
               </p>
               <p
                 class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600"
               >
-                The kit comes with three pre-built pages to help you get started
-                faster. You can change the text and images and you're good to
-                go. Just make sure you enable them first via JavaScript.
+                We specialize in rail transportation, logistics, and e-commerce sectors. Our team of experts is dedicated to delivering innovative solutions that drive efficiency and growth.
+
               </p>
               <router-link to="/" class="font-bold text-blueGray-700 mt-8">
-                Check Vue Notus!
+               
               </router-link>
             </div>
 
             <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
               <div
-                class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-emerald-500"
+                 class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-emerald-500"
               >
                 <img
                   alt="..."
@@ -165,9 +162,7 @@
                     Top Notch Services
                   </h4>
                   <p class="text-md font-light mt-2 text-white">
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens.
+                    Rail transportation is the backbone of India's logistics network, and we are committed to enhancing its efficiency and reliability.
                   </p>
                 </blockquote>
               </div>
@@ -199,9 +194,7 @@
                     Top Notch Services
                   </h4>
                   <p class="text-md font-light mt-2 text-white">
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens.
+                    port and logistics solutions that optimize supply chains and enhance operational efficiency.
                   </p>
                 </blockquote>
               </div>
@@ -210,27 +203,23 @@
               <div
                 class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
               >
-                <i class="fas fa-user-friends text-xl"></i>
+                <i class="fas fa-ship text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
-                Working with us is a pleasure
+                we give solutions for port and logistics
               </h3>
               <p
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
               >
-                Don't let your uses guess by attaching tooltips and popoves to
-                any element. Just make sure you enable them first via
-                JavaScript.
+                port and logistics are critical components of global trade, and we provide innovative solutions to streamline operations and improve efficiency.
               </p>
               <p
                 class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600"
               >
-                The kit comes with three pre-built pages to help you get started
-                faster. You can change the text and images and you're good to
-                go. Just make sure you enable them first via JavaScript.
+                Our expertise in port management, cargo handling, and supply chain optimization enables us to deliver tailored solutions that meet the unique needs of each client.
               </p>
               <router-link to="/" class="font-bold text-blueGray-700 mt-8">
-                Check Vue Notus!
+                Learn more about our services
               </router-link>
             </div>
 
@@ -241,7 +230,7 @@
               <div
                 class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
               >
-                <i class="fas fa-user-friends text-xl"></i>
+                <i class="fas fa-shopping-cart text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
                 Working with us is a pleasure
