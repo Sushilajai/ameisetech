@@ -3009,7 +3009,7 @@ select {
 }
 
 .top-0 {
-  top: 0px;
+  top: -1px;
 }
 
 .right-0 {
@@ -3675,7 +3675,9 @@ select {
 .z-50 {
   z-index: 50;
 }
-
+.z-600 {
+  z-index: 1000;
+}
 .gap-6 {
   gap: 1.5rem;
 }
@@ -4027,7 +4029,7 @@ select {
   }
 
   .md\:top-0 {
-    top: 0px;
+    top: -1px;
   }
 
   .md\:bottom-0 {
@@ -4232,7 +4234,7 @@ select {
   }
 
   .lg\:w-3\/12 {
-    width: 25%;
+    width: 20%;
   }
 
   .lg\:w-4\/12 {
@@ -4291,4 +4293,35 @@ select {
 }
 .align-height{
        line-height: 1.75rem;
+}
+
+
+
+
+/* Style the scrollbar track */
+::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Background of the track */
+  border-radius: 10px; /* Rounded corners */
+}
+
+/* Style the scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background: #33384d; /* Color of the scrollbar thumb */
+  border-radius: 10px; /* Rounded corners */
+}
+
+/* Hover effect for the scrollbar thumb */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; /* Darker color on hover */
+}
+
+/* Apply to a specific container */
+.scrollable-container {
+  height: 300px; /* Set height for scrolling */
+  overflow-y: scroll; /* Enable vertical scrolling */
+  overflow-x: hidden; /* Disable horizontal scrolling */
 }

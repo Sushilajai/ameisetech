@@ -45,8 +45,8 @@
                                     </div>
                                     <h6 class="text-xl font-semibold"> Web Application Development </h6>
                                     <p class="mt-2 mb-4 text-blueGray-500">
-                                        Divide details about your product or agency work into parts.
-                                        A paragraph describing a feature will be enough.
+                                     We provide custom web application solutions across ERP, CRM, and FinTech, helping businesses streamline operations, improve efficiency, and scale with confidence.
+
                                     </p>
                                 </div>
                             </div>
@@ -60,10 +60,9 @@
                                         class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-lightBlue-400">
                                         <i class="fas fa-retweet"></i>
                                     </div>
-                                    <h6 class="text-xl font-semibold">Custom Software Development</h6>
+                                    <h6 class="text-xl font-semibold">IT Security & Compliance</h6>
                                     <p class="mt-2 mb-4 text-blueGray-500">
-                                        Keep you user engaged by providing meaningful information.
-                                        Remember that by this time, the user is curious.
+                                        We offer comprehensive IT security and compliance services, including risk assessments, data protection, threat monitoring, and incident response to safeguard your business.
                                     </p>
                                 </div>
                             </div>
@@ -79,8 +78,7 @@
                                     </div>
                                     <h6 class="text-xl font-semibold">Cloud Solutions & Migration </h6>
                                     <p class="mt-2 mb-4 text-blueGray-500">
-                                        Write a few lines about each one. A paragraph describing a
-                                        feature will be enough. Keep you user engaged!
+                                        We provide cloud solutions and migration services to help businesses transition smoothly to cloud environments, ensuring scalability, security, and cost-efficiency.
                                     </p>
                                 </div>
                             </div>
@@ -98,7 +96,7 @@
                                 Web Application Development
                             </h3>
                             <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                                In the digital-first era, your website or application is often the first point of
+                                In the digital-first era, your application is often the first point of
                                 contact for customers. Our <span class="text-blueGray-700 font-bold">Web Application
                                     Development</span> services help businesses build scalable, secure, and
                                 high-performing applications that deliver seamless user experiences.
@@ -132,8 +130,7 @@
                                         <i class="fas fa-check text-green-500 mr-2"></i>
                                         <span class="text-blueGray-600">
                                             <span class="font-semibold">
-                                                E-commerce Solutions</span> – Secure and robust platforms to drive
-                                            online sales and customer engagement.
+                                                latest technologies</span> – Utilizing modern frameworks like React, Angular, Vue.js, and Node.js.
                                         </span>
                                     </div>
                                 </li>
@@ -455,9 +452,9 @@
                                <h3 class="text-3xl mb-2 font-semibold leading-normal"> IT Security & Compliance
                             </h3>
                             <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"> 
-                                In today’s digital landscape,<span class="text-blueGray-700 font-bold"> security is not optional</span> — <span class="text-blueGray-700 font-bold">it’s essential</span>. At <span class="text-blueGray-700 font-bold">AmeiseTech</span>, we protect your business from evolving cyber threats while ensuring you stay compliant with global regulations and industry standards.
-
-Our team of security experts designs, implements, and monitors <span class="text-blueGray-700 font-bold">robust IT security frameworks</span> that safeguard your data, applications, and infrastructure, giving you the confidence to operate securely and efficiently.
+                                In today’s digital landscape,<span class="text-blueGray-700 font-bold"> security is not optional</span> — <span class="text-blueGray-700 font-bold">it’s essential</span>.
+                                The key areas such as access control, risk management, security policies, and vendor security assessments to ensure adherence to relevant standards and regulations.
+                                
                             </p>
                                 <ul class="list-none mt-6">
                                     <li class="py-2">
@@ -470,7 +467,7 @@ Our team of security experts designs, implements, and monitors <span class="text
                                             </div>
                                             <div>
                                                 <h4 class="text-blueGray-500">
-                                                    Cybersecurity Assessments
+                                                    Access Control and Identity Management
                                                 </h4>
                                             </div>
                                         </div>
@@ -485,7 +482,7 @@ Our team of security experts designs, implements, and monitors <span class="text
                                             </div>
                                             <div>
                                                 <h4 class="text-blueGray-500">
-                                                    Data Protection & Privacy
+                                                    Risk Management
                                                 </h4>
                                             </div>
                                         </div>
@@ -500,7 +497,7 @@ Our team of security experts designs, implements, and monitors <span class="text
                                             </div>
                                             <div>
                                                 <h4 class="text-blueGray-500">
-                                                    Threat Monitoring & Incident Response</h4>
+                                                    Security Policies and Procedures</h4>
                                             </div>
                                         </div>
                                     </li>
@@ -513,7 +510,7 @@ Our team of security experts designs, implements, and monitors <span class="text
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">Compliance Management</h4>
+                                                <h4 class="text-blueGray-500">Technical Security Measures</h4>
                                             </div>
                                         </div>
                                     </li>
@@ -526,7 +523,7 @@ Our team of security experts designs, implements, and monitors <span class="text
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">Cloud Security</h4>
+                                                <h4 class="text-blueGray-500">Vendor Security Assessments</h4>
                                             </div>
                                         </div>
                                     </li>
@@ -539,7 +536,7 @@ Our team of security experts designs, implements, and monitors <span class="text
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">Cloud Security</h4>
+                                                <h4 class="text-blueGray-500">Incident Response and Recovery</h4>
                                             </div>
                                         </div>
                                     </li>

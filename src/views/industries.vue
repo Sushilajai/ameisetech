@@ -30,7 +30,7 @@
             </div>
           </div>
         </div>
-        <div
+        <!-- <div
           class="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden h-70-px"
           style="transform: translateZ(0);"
         >
@@ -48,7 +48,7 @@
               points="2560 0 2560 100 0 100"
             ></polygon>
           </svg>
-        </div>
+        </div> -->
       </div>
 
       <section class="pb-20 bg-blueGray-200 -mt-24">
@@ -101,9 +101,9 @@
                   >
                     <i class="fas fa-fingerprint"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">E-commerce</h6>
+                  <h6 class="text-xl font-semibold">Battery 2nd life solutions</h6>
                   <p class="mt-2 mb-4 text-blueGray-500">
-                    In the fast-paced world of e-commerce, we deliver scalable and secure solutions to enhance customer experiences and streamline operations.
+                    We provide innovative second-life battery solutions that promote sustainability and reduce environmental impact.
                   </p>
                 </div>
               </div>
@@ -118,18 +118,17 @@
                 <i class="fas fa-train text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
-                Working with us is a pleasure
+Railways Support systems
               </h3>
               <p
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
               >
-                We prioritize collaboration and communication, ensuring that your
-                needs are met every step of the way.
+                Indian Railways is the backbone of the nation's transportation network, and we are dedicated to enhancing its efficiency and reliability through cutting-edge technology and innovative solutions.
               </p>
               <p
                 class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600"
               >
-                We specialize in rail transportation, logistics, and e-commerce sectors. Our team of experts is dedicated to delivering innovative solutions that drive efficiency and growth.
+                We specialize in rail transportation, logistics, and batteries sectors. Our team of experts is dedicated to delivering innovative solutions that drive efficiency and growth.
 
               </p>
               <router-link to="/" class="font-bold text-blueGray-700 mt-8">
@@ -143,7 +142,7 @@
               >
                 <img
                   alt="..."
-                  src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
+                  src="@/assets/img/Hamburg1-e1481623448880.jpg"
                   class="w-full align-middle rounded-t-lg"
                 />
                 <blockquote class="relative p-8 mb-4">
@@ -159,10 +158,10 @@
                     ></polygon>
                   </svg>
                   <h4 class="text-xl font-bold text-white">
-                    Top Notch Services
+Railway Terminal Handling
                   </h4>
                   <p class="text-md font-light mt-2 text-white">
-                    Rail transportation is the backbone of India's logistics network, and we are committed to enhancing its efficiency and reliability.
+We provide efficient, safe, and reliable railway terminal handling services to ensure smooth cargo movement, reduced turnaround time, and optimized terminal operations.
                   </p>
                 </blockquote>
               </div>
@@ -175,7 +174,7 @@
               >
                 <img
                   alt="..."
-                  src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
+                  src="@/assets/img/images.jpg"
                   class="w-full align-middle rounded-t-lg"
                 />
                 <blockquote class="relative p-8 mb-4">
@@ -191,7 +190,7 @@
                     ></polygon>
                   </svg>
                   <h4 class="text-xl font-bold text-white">
-                    Top Notch Services
+                    Port and Logistics Solutions
                   </h4>
                   <p class="text-md font-light mt-2 text-white">
                     port and logistics solutions that optimize supply chains and enhance operational efficiency.
@@ -206,21 +205,21 @@
                 <i class="fas fa-ship text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
-                we give solutions for port and logistics
+                Port and Logistics Solutions
               </h3>
               <p
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
               >
-                port and logistics are critical components of global trade, and we provide innovative solutions to streamline operations and improve efficiency.
+                Port and logistics are critical components of global trade, and we provide innovative solutions to streamline operations and improve efficiency.
               </p>
               <p
                 class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600"
               >
                 Our expertise in port management, cargo handling, and supply chain optimization enables us to deliver tailored solutions that meet the unique needs of each client.
               </p>
-              <router-link to="/" class="font-bold text-blueGray-700 mt-8">
+              <!-- <router-link to="/" class="font-bold text-blueGray-700 mt-8">
                 Learn more about our services
-              </router-link>
+              </router-link> -->
             </div>
 
             
@@ -230,28 +229,22 @@
               <div
                 class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
               >
-                <i class="fas fa-shopping-cart text-xl"></i>
+                <i class="fas fa-battery text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
-                Working with us is a pleasure
+                Batteries 2nd Life Solutions
               </h3>
               <p
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
               >
-                Don't let your uses guess by attaching tooltips and popoves to
-                any element. Just make sure you enable them first via
-                JavaScript.
+              Innovative second-life battery solutions that promote sustainability and reduce environmental impact.
               </p>
               <p
                 class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600"
               >
-                The kit comes with three pre-built pages to help you get started
-                faster. You can change the text and images and you're good to
-                go. Just make sure you enable them first via JavaScript.
+                We specialize in repurposing used batteries for applications such as energy storage systems, renewable energy integration, and electric vehicle charging infrastructure.
               </p>
-              <router-link to="/" class="font-bold text-blueGray-700 mt-8">
-                Check Vue Notus!
-              </router-link>
+             
             </div>
 
             <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
@@ -260,7 +253,7 @@
               >
                 <img
                   alt="..."
-                  src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
+                  src="@/assets/img/battery.jpg"
                   class="w-full align-middle rounded-t-lg"
                 />
                 <blockquote class="relative p-8 mb-4">
@@ -276,12 +269,10 @@
                     ></polygon>
                   </svg>
                   <h4 class="text-xl font-bold text-white">
-                    Top Notch Services
+                    Batteries 2nd Life Solutions
                   </h4>
                   <p class="text-md font-light mt-2 text-white">
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens.
+                    Promote sustainability and reduce environmental impact.
                   </p>
                 </blockquote>
               </div>

@@ -24,15 +24,13 @@
                   Your story starts with us.
                 </h1>
                 <p class="mt-4 text-lg text-blueGray-200">
-                  This is a simple example of a Landing Page you can build using
-                  Vue Notus. It features multiple CSS components based on the
-                  Tailwind CSS design system.
+                  At AmeiseTech, our products are designed to help organizations measure, manage, and improve performance across sustainability, ESG, and digital operations. Built on modern technology and industry best practices, our solutions empower businesses to make informed decisions, ensure compliance, and achieve long-term resilience.
                 </p>
               </div>
             </div>
           </div>
         </div>
-        <div
+        <!-- <div
           class="top-auto bottom-0 left-0 right-0 w-full absolute pointer-events-none overflow-hidden h-70-px"
           style="transform: translateZ(0);"
         >
@@ -50,7 +48,7 @@
               points="2560 0 2560 100 0 100"
             ></polygon>
           </svg>
-        </div>
+        </div> -->
       </div>
 
        <section class="pb-20 bg-blueGray-200 -mt-24">
@@ -61,7 +59,7 @@
 
                     <div class="flex flex-wrap items-center mt-32" id="web-application-development">
                        
-                    <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
+                       <div class="w-full md:w-4/12 px-4 mr-auto ml-auto">
                             <div style="background-color: #a89f1e;"
                                 class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-emerald-500">
                                 <img alt="..."
@@ -108,7 +106,7 @@
                             <div style="background-color: #e85c4a;"
                                 class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-emerald-500">
                                 <img alt="..."
-                                    src="@/assets/img/project-management.jpg"
+                                    src="@/assets/img/project-estimater.jpg"
                                     class="w-full align-middle rounded-t-lg" />
                                 <blockquote class="relative p-8 mb-4">
                                     <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"
@@ -120,28 +118,28 @@
                                     <ul>
 
                                         <h4 class="text-xl font-bold text-white">
-                                            Project Planner 
+                                            Project Estimator 
                                         </h4>
-                                        <span style="color: white;">we provide a smart and intuitive Project Planner solution that helps organizations plan, track, and execute projects with efficiency and transparency</span>
+                                        <span style="color: white;">Project Estimator is a smart and intuitive solution that helps organizations estimate project costs, resources, and timelines with accuracy and efficiency.</span>
                                         <li class="text-md font-light mt-2 text-white">
                                            <i class="fas fa-paper-plane text-green-500 mr-2"></i>
-                                            Improved customer engagement with intuitive UI/UX
+                                            Accurate cost estimation using historical data and industry benchmarks
                                         </li>
                                         <li class="text-md font-light mt-2 text-white"> <i
                                                 class="fas fa-paper-plane text-green-500 mr-2"></i>
-                                            Scalable solutions that grow with your business
+                                            Resource allocation and management for optimal project delivery
                                         </li>
                                         <li class="text-md font-light mt-2 text-white"> <i
                                                 class="fas fa-paper-plane text-green-500 mr-2"></i>
-                                            Enhanced security with best industry practices
+                                            Timeline forecasting and scheduling for better project planning
                                         </li>
                                         <li class="text-md font-light mt-2 text-white"> <i
                                                 class="fas fa-paper-plane text-green-500 mr-2"></i>
-                                            Faster time-to-market with agile development
+                                            Collaboration tools for team communication and coordination
                                         </li>
                                         <li class="text-md font-light mt-2 text-white"> <i
-                                                class="fas fa-paper-plane text-green-500 mr-2"></i>Competitive edge
-                                            through innovation and modern technologies
+                                                class="fas fa-paper-plane text-green-500 mr-2"></i>
+                                            Flexible solution for startups, SMEs, and enterprises.
                                         </li>
                                     </ul>
                                 </blockquote>
@@ -190,6 +188,7 @@
                                 </blockquote>
                             </div>
                         </div>
+                        
                     </div>
                 </div>
             </section>

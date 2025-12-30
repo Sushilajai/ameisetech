@@ -10,7 +10,7 @@
     </a>
     <div
       ref="popoverDropdownRef"
-      class="bg-white text-base z-50 float-left py-2 list-none text-left rounded shadow-lg min-w-48"
+      class="bg-white text-base z-600 float-left py-2 list-none text-left rounded shadow-lg min-w-48"
       v-bind:class="{
         hidden: !dropdownPopoverShow,
         block: dropdownPopoverShow,
@@ -51,11 +51,19 @@
       >
         Services
       </span>
-      <router-link
+      <router-link 
         to="/contract-design#contract-design-feasibility"
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
       >
         Contract Design
+      </router-link>
+      
+      
+      <router-link
+        to="/contract-design#operation-maintenance"
+        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
+      >
+        Operation & Maintenance
       </router-link>
       <router-link
         to="/contract-design#financial-modelling"
@@ -64,13 +72,19 @@
         Financial Modelling
       </router-link>
       <router-link
-        to="/contract-design#operation-maintenance"
+        to="/contract-design#smart-infrastructure-services"
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
       >
-        Operation & Maintenance
+        Smart Infrastructure Services
       </router-link>
       <router-link
-        to="/auth/register"
+        to="/contract-design#design-engineering-services"
+        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
+      >
+        Design & Engineering Services
+      </router-link>
+      <router-link
+        to="/sustainability-consulting"
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
       >
         Sustainability Consulting
@@ -82,16 +96,22 @@
         System Integration
       </span>
       <router-link
-        to="/systems-integration"
+        to="/Services#battery-2nd-life-solution"
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
       >
-        Legacy Transformation
+        Battery 2nd Life Solution
       </router-link>
       <router-link
-        to="/devops-integration"
+        to="/Services#smart-cities"
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
       >
-        DevOps Implementation Services
+        Smart Cities
+      </router-link>
+      <router-link
+        to="/Services#digital-twin"
+        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
+      >
+        Digital Twin
       </router-link>
       <div class="h-0 mx-4 my-2 border border-solid border-blueGray-100" />
       <span
@@ -129,6 +149,18 @@
       >
         IT Consulting & Support
       </router-link>
+      <router-link
+        to="/systems-integration"
+        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
+      >
+        Legacy Transformation
+      </router-link>
+      <router-link
+        to="/devops-integration"
+        class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
+      >
+        DevOps Implementation Services
+      </router-link>
       <div class="h-0 mx-4 my-2 border border-solid border-blueGray-100" />
     </div>
   </div>
@@ -142,18 +174,104 @@ export default {
       dropdownPopoverShow: false,
     };
   },
+
+  mounted() {
+    document.addEventListener("click", this.handleClickOutside);
+  },
+
+  beforeDestroy() {
+    document.removeEventListener("click", this.handleClickOutside);
+  },
+
   methods: {
-    toggleDropdown: function (event) {
+    toggleDropdown(event) {
       event.preventDefault();
+      this.dropdownPopoverShow = !this.dropdownPopoverShow;
+
       if (this.dropdownPopoverShow) {
-        this.dropdownPopoverShow = false;
-      } else {
-        this.dropdownPopoverShow = true;
-        createPopper(this.$refs.btnDropdownRef, this.$refs.popoverDropdownRef, {
-          placement: "bottom-start",
-        });
+        createPopper(
+          this.$refs.btnDropdownRef,
+          this.$refs.popoverDropdownRef,
+          { placement: "bottom-start" }
+        );
       }
     },
+
+    handleClickOutside(event) {
+      const btn = this.$refs.btnDropdownRef;
+      const menu = this.$refs.popoverDropdownRef;
+
+      // If dropdown closed already → do nothing
+      if (!this.dropdownPopoverShow) return;
+
+      // If clicked inside button OR inside dropdown → do nothing
+      if (btn.contains(event.target) || menu.contains(event.target)) {
+        return;
+      }
+
+      // Otherwise → close dropdown
+      this.dropdownPopoverShow = false;
+    }
   },
+  watch: {
+  "$route.hash"(hash) {
+    if (!hash) return;
+
+    this.$nextTick(() => {
+      const el = document.querySelector(hash);
+      if (el) {
+        el.setAttribute("tabindex", "-1");
+        el.scrollIntoView({ behavior: "smooth" });
+        el.focus({ preventScroll: true });
+      }
+      else {
+      // No hash? Scroll to top
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+
+    });
+  }
+},
 };
 </script>
+<style scoped>
+  .leaflet-top, .leaflet-bottom {
+    z-index: 0 !important;
+}
+  </style>
+<!-- <style scoped>
+  /* Navbar container */
+.navbar,
+header,
+.top-nav {
+  position: relative;
+  z-index: 5000;
+}
+
+/* Your Popper dropdown */
+.menu-dropdown,
+.popover-dropdown,
+[ref="popoverDropdownRef"] {
+  z-index: 6000 !important;
+}
+
+/* 🔽 Push Leaflet map behind UI */
+.leaflet-container {
+  z-index: 1 !important;
+}
+
+.leaflet-pane,
+.leaflet-top,
+.leaflet-bottom {
+  z-index: 1 !important;
+}
+
+/* 🔼 Keep navbar + dropdown above */
+header,
+.navbar,
+.top-nav {
+  position: relative;
+  z-index: 5000;
+}
+
+  </style> -->

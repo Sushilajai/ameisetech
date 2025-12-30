@@ -337,7 +337,7 @@
                     </div>
 
 
-                    <div class="flex flex-wrap items-center mt-32" id="Financial-modelling">
+                    <div class="flex flex-wrap items-center mt-32" id="financial-modelling">
                         <div class="w-full md:w-5/12 px-4 mr-auto ml-auto">
                             <div
                                 class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
@@ -431,7 +431,7 @@
                 </div>
 
                 <div class="container mx-auto px-4">
-                    <div class="items-center flex flex-wrap" id="Smart-Infrastructure-Services">
+                    <div class="items-center flex flex-wrap" id="smart-infrastructure-services">
                         <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
                             <img alt="..." class="max-w-full rounded-lg shadow-lg"
                                 src="@/assets/img/Smart_Cities.jpg" />
@@ -493,7 +493,7 @@ At <span class="text-blueGray-700 font-bold">AmeiseTech</span>, we empower citie
                     </div>
 
 
-                    <div class="flex flex-wrap items-center mt-32" id="it-consulting-support">
+                    <div class="flex flex-wrap items-center mt-32" id="design-engineering-services">
                         <div class="w-full md:w-5/12 px-4 mr-auto ml-auto">
                             <div
                                 class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
@@ -682,3 +682,9 @@ export default {
     },
 };
 </script>
+<style scoped>
+.px-4 {
+    padding-left: 0rem !important;
+    padding-right: 1rem;
+}
+</style>

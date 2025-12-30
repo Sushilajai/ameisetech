@@ -38,9 +38,10 @@ import SystemIntegration from "./views/system-integration.vue";
 import devopsintegration from "@/views/devops-integration.vue";
 import contactus from "./views/contactus.vue";
 import Products from "./views/product.vue";
-import partners from "./views/partners.vue";
+import partners from "./views/partners-clients.vue";
 import industries from "./views/industries.vue";
-
+import sustainabilityconsulting from "./views/sustainability-consulting.vue";
+import Services from "./views/Services.vue";
 // routes
 
 const routes = [
@@ -98,7 +99,11 @@ const routes = [
     path: "/software-services",
     component: SoftwareServices,
   },
-    {
+  {
+    path: "/sustainability-consulting",
+    component: sustainabilityconsulting,
+  },
+  {
     path: "/systems-integration",
     component: SystemIntegration,
   },
@@ -115,12 +120,16 @@ const routes = [
     component: Products,
   },
   {
-    path: "/partners",
+    path: "/partners-clients",
     component: partners,
   },
   {
     path: "/industries",
     component: industries,
+  },
+  {
+    path: "/services",
+    component: Services,
   },
   {
     path: "/",
@@ -133,5 +142,5 @@ const router = createRouter({
   history: createWebHistory(),
   routes,
 });
-
+  
 createApp(App).use(router).mount("#app");

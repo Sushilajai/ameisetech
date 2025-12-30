@@ -89,4 +89,15 @@ onBeforeUnmount(() => {
   width: 100%;
   height: 100%;
 }
+/* 🔽 Force Leaflet UI layers behind navbar/dropdowns */
+::v-deep .leaflet-top,
+::v-deep .leaflet-bottom,
+::v-deep .leaflet-pane,
+::v-deep .leaflet-control-container {
+  z-index: 0 !important;
+}
+::v-deep .leaflet-bottom,
+::v-deep .leaflet-right {
+  display: none;
+}
 </style>

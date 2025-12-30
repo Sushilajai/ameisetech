@@ -12,15 +12,14 @@
               AmeiseTech is a  Smart Infra Startup providing  Digital solutions to drive Sustainability.
             </h2>
             <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
-               We work with Govt, ULBs, Cities for Digital Transformation initiatives.
+Ameisetech is a strong proponent of the circular economy, committed to delivering sustainable solutions for digital transformation. Sustainability is at the heart of everything we do—whether it’s design, program management, services, or innovation—ensuring that every solution we provide contributes to a greener and more responsible future.
               <a
                 href="https://tailwindcss.com/?ref=creativetim"
                 class="text-blueGray-600"
                 target="_blank"
               >
               </a>
-               Our Team comes with a rich experience of working in Different Geos of  North America, Europe 
-&  Asia market. 
+              
             </p>
             <!-- <div class="mt-12">
               <a
@@ -71,7 +70,7 @@
             >
               <img
                 alt="..."
-                src="@/assets/img/digital-transformation.jpg"
+                src="@/assets/img/Sustainability_in_innovation-01.webp"
                 class="w-full align-middle rounded-t-lg"
               />
               <blockquote class="relative p-8 mb-4">
@@ -91,6 +90,7 @@
                 </h4>
                 <p class="text-md font-light mt-2 text-white">
                   We harness the power of Artificial Intelligence and cutting-edge digital technologies to drive sustainability across industries. Our innovative solutions help organizations reduce their environmental impact, optimize resource usage, and achieve their sustainability goals. From smart infrastructure to intelligent data analytics, we are committed to creating a greener, more sustainable future through technology.
+                <a href="/sustainability-consulting" class="text-white underline">Read more</a>
                 </p>
               </blockquote>
             </div>
@@ -112,7 +112,7 @@
                     <p class="mb-4 text-blueGray-500">
                       We offer a range of services including Sustainability Consulting, Contract Design, Financial Modelling, and Operation & Maintenance Support.
                     </p>
-                    <a href="/landing" class="text-blueGray-500 hover:text-blueGray-700">
+                    <a href="/contract-design" class="text-blueGray-500 hover:text-blueGray-700">
                       Read more
                     </a>
                   </div>
@@ -165,7 +165,7 @@ Our System Integration services ensure that all your IT assets — whether legac
                     <p class="mb-4 text-blueGray-500">
                       We provide ongoing support and maintenance services to ensure the long-term sustainability of our clients' operations.
                     </p>
-                    <a href="#" class="text-blueGray-500 hover:text-blueGray-700">
+                    <a href="/contract-design#operation-maintenance" class="text-blueGray-500 hover:text-blueGray-700">
                       Read more
                     </a>
                   </div>
@@ -305,10 +305,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
           <div class="w-full md:w-6/12 px-4 mr-auto ml-auto mt-32">
             <div class="justify-center flex flex-wrap relative">
               <div class="my-4 w-full lg:w-6/12 px-4">
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/svelte/alerts/notus?ref=vn-index"
-                  target="_blank"
-                >
+                
                   <div class="bg-red-600 shadow-lg rounded-lg text-center p-8">
                     <img
                       alt="..."
@@ -319,11 +316,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
                       Proven Expertise
                     </p>
                   </div>
-                </a>
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/react/alerts/notus?ref=vn-index"
-                  target="_blank"
-                >
+                
                   <div
                     class="bg-lightBlue-500 shadow-lg rounded-lg text-center p-8 mt-8"
                   >
@@ -336,11 +329,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
                       Innovative Solutions
                     </p>
                   </div>
-                </a>
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/alerts/notus?ref=vn-index"
-                  target="_blank"
-                >
+                
                   <div
                     class="bg-blueGray-700 shadow-lg rounded-lg text-center p-8 mt-8"
                   >
@@ -353,13 +342,10 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
                       Client-Centric Approach
                     </p>
                   </div>
-                </a>
+                
               </div>
               <div class="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/js/alerts/notus?ref=vn-index"
-                  target="_blank"
-                >
+                
                   <div
                     class="bg-yellow-500 shadow-lg rounded-lg text-center p-8"
                   >
@@ -372,11 +358,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
                       Quality & Reliability
                     </p>
                   </div>
-                </a>
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/angular/alerts/notus?ref=vn-index"
-                  target="_blank"
-                >
+                
                   <div
                     class="bg-red-700 shadow-lg rounded-lg text-center p-8 mt-8"
                   >
@@ -389,11 +371,8 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
                       End-to-End Support
                     </p>
                   </div>
-                </a>
-                <a
-                  href="https://www.creative-tim.com/learning-lab/tailwind/vue/alerts/notus?ref=vn-index"
-                  target="_blank"
-                >
+                
+               
                   <div
                     class="bg-emerald-500 shadow-lg rounded-lg text-center p-8 mt-8"
                   >
@@ -406,7 +385,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
                       Sustainable Growth
                     </p>
                   </div>
-                </a>
+                
               </div>
             </div>
           </div>
