@@ -1326,7 +1326,7 @@ select {
 
 .bg-emerald-500 {
   --tw-bg-opacity: 1;
-  background-color: rgba(16, 185, 129, var(--tw-bg-opacity));
+    background-color: rgb(83 163 136);
 }
 
 .bg-emerald-600 {
@@ -1411,7 +1411,7 @@ select {
 
 .bg-blueGray-600 {
   --tw-bg-opacity: 1;
-  background-color: rgba(71, 85, 105, var(--tw-bg-opacity));
+  background-color: rgb(208 207 212);
 }
 
 .bg-blueGray-700 {
@@ -1453,7 +1453,11 @@ select {
   --tw-bg-opacity: 1;
   background-color: rgba(71, 85, 105, var(--tw-bg-opacity));
 }
-
+.bg-gradient-500
+{
+  --tw-bg-opacity: 1;
+    background-image: linear-gradient(181deg, #54618c 30%, #06164ce6 60% 60%)
+  }
 .bg-none {
   background-image: none;
 }
@@ -1606,6 +1610,12 @@ select {
 .rounded-t-lg {
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;
+}
+.rounded-tb-lg {
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
 }
 
 .rounded-tl {
@@ -2776,6 +2786,11 @@ select {
   padding-bottom: 0.75rem;
 }
 
+
+.Nav-py-3 {
+  padding-top: 0.75rem;
+}
+
 .px-3 {
   padding-left: 0.75rem;
   padding-right: 0.75rem;
@@ -3308,7 +3323,7 @@ select {
 
 .text-emerald-500 {
   --tw-text-opacity: 1;
-  color: rgba(16, 185, 129, var(--tw-text-opacity));
+  color: rgb(83 163 136);
 }
 
 .text-emerald-600 {
@@ -4281,9 +4296,9 @@ select {
 
 
 .MenuDropdown-item{
-      padding-bottom: 7px;
-    border-bottom: 2px solid #f26a3b;
-    color: #0477ba;
+    padding-bottom: 7px;
+    border-bottom: 2px solid #52a186;
+    color: #49657b;
     font-weight: 600;
     font-size: 16px;
 }

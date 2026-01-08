@@ -41,7 +41,7 @@ Ameisetech is a strong proponent of the circular economy, committed to deliverin
       />
     </section>
     <section class="mt-48 md:mt-40 pb-40 relative bg-blueGray-100">
-      <div
+      <!-- <div
         class="-mt-20 top-0 bottom-auto left-0 right-0 w-full absolute h-20"
         style="transform: translateZ(0);"
       >
@@ -59,7 +59,7 @@ Ameisetech is a strong proponent of the circular economy, committed to deliverin
             points="2560 0 2560 100 0 100"
           ></polygon>
         </svg>
-      </div>
+      </div> -->
       <div class="container mx-auto">
         <div class="flex flex-wrap items-center">
           <div
@@ -70,7 +70,7 @@ Ameisetech is a strong proponent of the circular economy, committed to deliverin
             >
               <img
                 alt="..."
-                src="@/assets/img/Sustainability_in_innovation-01.webp"
+                src="@/assets/img/AI-Remove.jpg"
                 class="w-full align-middle rounded-t-lg"
               />
               <blockquote class="relative p-8 mb-4">
@@ -111,10 +111,11 @@ Ameisetech is a strong proponent of the circular economy, committed to deliverin
                     </h6>
                     <p class="mb-4 text-blueGray-500">
                       We offer a range of services including Sustainability Consulting, Contract Design, Financial Modelling, and Operation & Maintenance Support.
-                    </p>
-                    <a href="/contract-design" class="text-blueGray-500 hover:text-blueGray-700">
+                    <a href="/contract-design" class="text-blueGray-500 hover:text-blueGray-700 underline">
                       Read more
                     </a>
+                    </p>
+                    
                   </div>
                 </div>
                 <div class="relative flex flex-col min-w-0">
@@ -129,10 +130,11 @@ Ameisetech is a strong proponent of the circular economy, committed to deliverin
                     </h6>
                     <p class="mb-4 text-blueGray-500">
                       We assist organizations in designing and implementing software solutions that align with their sustainability and regulatory goals.
-                    </p>
-                    <a href="/software-services" class="text-blueGray-500 hover:text-blueGray-700">
+                    <a href="/software-services" class="text-blueGray-500 hover:text-blueGray-700 underline">
                       Read more
                     </a>
+                    </p>
+                    
                   </div>
                 </div>
               </div>
@@ -146,10 +148,12 @@ Ameisetech is a strong proponent of the circular economy, committed to deliverin
                     </div>
                     <h6 class="text-xl mb-1 font-semibold"> System Integration </h6>
                     <p class="mb-4 text-blueGray-500">
-Our System Integration services ensure that all your IT assets — whether legacy systems, cloud applications, or third-party solutions</p>
-                    <a href="#" class="text-blueGray-500 hover:text-blueGray-700">
+Our System Integration services ensure that all your IT assets — whether legacy systems, cloud applications, or third-party solutions
+<a href="/Services" class="text-blueGray-500 hover:text-blueGray-700 underline">
                       Read more
                     </a>
+</p>
+                    
                   </div>
                 </div>
                 <div class="relative flex flex-col min-w-0">
@@ -164,10 +168,11 @@ Our System Integration services ensure that all your IT assets — whether legac
                     </h6>
                     <p class="mb-4 text-blueGray-500">
                       We provide ongoing support and maintenance services to ensure the long-term sustainability of our clients' operations.
-                    </p>
-                    <a href="/contract-design#operation-maintenance" class="text-blueGray-500 hover:text-blueGray-700">
+                    <a href="/contract-design#operation-maintenance" class="text-blueGray-500 hover:text-blueGray-700 underline">
                       Read more
                     </a>
+                    </p>
+                    
                   </div>
                 </div>
               </div>
@@ -263,41 +268,16 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
             </a> -->
           </div>
 
-          <div class="w-full md:w-5/12 px-4 mr-auto ml-auto mt-32">
-            <div
-              class="relative flex flex-col min-w-0 w-full mb-6 mt-48 md:mt-0"
-            >
-              <img
-                alt="..."
-                :src="componentBtn"
-                class="w-full align-middle rounded absolute shadow-lg max-w-100-px left-145-px -top-29-px z-3"
-              />
-              <img
-                alt="..."
-                :src="componentProfileCard"
-                class="w-full align-middle rounded-lg absolute shadow-lg max-w-210-px left-260-px -top-160-px"
-              />
-              <img
-                alt="..."
-                :src="componentInfoCard"
-                class="w-full align-middle rounded-lg absolute shadow-lg max-w-180-px left-40-px -top-225-px z-2"
-              />
-              <img
-                alt="..."
-                :src="componentInfo2"
-                class="w-full align-middle rounded-lg absolute shadow-2xl max-w-200-px -left-50-px top-25-px"
-              />
-              <img
-                alt="..."
-                :src="componentMenu"
-                class="w-full align-middle rounded absolute shadow-lg max-w-580-px -left-20-px top-210-px"
-              />
-              <img
-                alt="..."
-                :src="componentBtnPink"
-                class="w-full align-middle rounded absolute shadow-xl max-w-120-px left-195-px top-95-px"
-              />
-            </div>
+          
+          <div class="w-full md:w-6/12 mr-auto px-4 pt-24 md:pt-0 mt-48">
+            <img
+              alt="..."
+              class="max-w-full rounded-lg shadow-xl"
+              style="
+                transform: scale(1) perspective(1040px) rotateY(-11deg)
+                  rotateX(2deg) rotate(2deg); "
+              :src="documentation"
+            />
           </div>
         </div>
 
@@ -306,7 +286,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
             <div class="justify-center flex flex-wrap relative">
               <div class="my-4 w-full lg:w-6/12 px-4">
                 
-                  <div class="bg-red-600 shadow-lg rounded-lg text-center p-8">
+                  <div class="bg-gradient-500 shadow-lg rounded-lg text-center p-8">
                     <img
                       alt="..."
                       class="shadow-md rounded-full max-w-full w-16 mx-auto p-2 bg-white"
@@ -318,7 +298,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
                   </div>
                 
                   <div
-                    class="bg-lightBlue-500 shadow-lg rounded-lg text-center p-8 mt-8"
+                    class="bg-gradient-500 shadow-lg rounded-lg text-center p-8 mt-8"
                   >
                     <img
                       alt="..."
@@ -331,7 +311,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
                   </div>
                 
                   <div
-                    class="bg-blueGray-700 shadow-lg rounded-lg text-center p-8 mt-8"
+                    class="bg-gradient-500 shadow-lg rounded-lg text-center p-8 mt-8"
                   >
                     <img
                       alt="..."
@@ -347,7 +327,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
               <div class="my-4 w-full lg:w-6/12 px-4 lg:mt-16">
                 
                   <div
-                    class="bg-yellow-500 shadow-lg rounded-lg text-center p-8"
+                    class="bg-gradient-500 shadow-lg rounded-lg text-center p-8"
                   >
                     <img
                       alt="..."
@@ -360,7 +340,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
                   </div>
                 
                   <div
-                    class="bg-red-700 shadow-lg rounded-lg text-center p-8 mt-8"
+                    class="bg-gradient-500 shadow-lg rounded-lg text-center p-8 mt-8"
                   >
                     <img
                       alt="..."
@@ -374,7 +354,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
                 
                
                   <div
-                    class="bg-emerald-500 shadow-lg rounded-lg text-center p-8 mt-8"
+                    class="bg-gradient-500 shadow-lg rounded-lg text-center p-8 mt-8"
                   >
                     <img
                       alt="..."
@@ -479,114 +459,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
         </div>
       </div>
 
-      <div class="container mx-auto px-4 pb-32 pt-48">
-        <div class="items-center flex flex-wrap">
-          <div class="w-full md:w-5/12 ml-auto px-12 md:px-4">
-            <div class="md:pr-12">
-              <!-- <div
-                class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white"
-              >
-                <i class="fas fa-file-alt text-xl"></i>
-              </div> -->
-              
-              <h3 class="text-3xl font-semibold">
-                Mission:
-              </h3>
-              <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
-                To carve-out a global presence as the ultimate solution provider with customer centric approach and uncompromising commitment to quality, time-lines, innovation, precision and exceed all expectations through strategic development and optimum performance through superior work culture.
-              </p>
-              <ul class="list-none mt-6">
-                <li class="py-2">
-                  <div class="flex items-center">
-                    <div>
-                      <span
-                        class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-blueGray-50 mr-3"
-                      >
-                        <i class="far fa-paper-plane"></i>
-                      </span>
-                    </div>
-                    <div>
-                      <h4 class="text-blueGray-500">
-                        To deliver innovative and reliable IT solutions
-                      </h4>
-                    </div>
-                  </div>
-                </li>
-                <li class="py-2">
-                  <div class="flex items-center">
-                    <div>
-                      <span
-                        class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-blueGray-50 mr-3"
-                      >
-                        <i class="far fa-paper-plane"></i>
-                      </span>
-                    </div>
-                    <div>
-                      <h4 class="text-blueGray-500">
-                        To empower organizations by leveraging the latest technologies
-                      </h4>
-                    </div>
-                  </div>
-                </li>
-                <li class="py-2">
-                  <div class="flex items-center">
-                    <div>
-                      <span
-                        class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-blueGray-50 mr-3"
-                      >
-                        <i class="far fa-paper-plane"></i>
-                      </span>
-                    </div>
-                    <div>
-                      <h4 class="text-blueGray-500">
-                        To maintain the highest standards of quality, integrity, and customer satisfaction
-                      </h4>
-                    </div>
-                  </div>
-                </li>
-                 <li class="py-2">
-                  <div class="flex items-center">
-                    <div>
-                      <span
-                        class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-blueGray-500 bg-blueGray-50 mr-3"
-                      >
-                        <i class="far fa-paper-plane"></i>
-                      </span>
-                    </div>
-                    <div>
-                      <h4 class="text-blueGray-500">
-                        To contribute positively to society by promoting ethical practices and sustainable development through technology.
-                      </h4>
-                    </div>
-                  </div>
-                </li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="w-full md:w-6/12 mr-auto px-4 pt-24 md:pt-0">
-            <img
-              alt="..."
-              class="max-w-full rounded-lg shadow-xl"
-              style="
-                transform: scale(1) perspective(1040px) rotateY(-11deg)
-                  rotateX(2deg) rotate(2deg);
-              "
-              :src="documentation"
-            />
-          </div>
-        </div>
-      </div>
-
-      <!-- <div class="justify-center text-center flex flex-wrap mt-24">
-        <div class="w-full md:w-6/12 px-12 md:px-4">
-          <h2 class="font-semibold text-4xl">Global Presence</h2>
-          <p class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-500">
-            We have successfully delivered projects across Europe, and Asia, demonstrating our ability to adapt to diverse markets and regulatory environments.
-          </p>
-         
-        </div>
-      </div> -->
+     
     </section>
 
    
