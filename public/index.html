@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <link rel="shortcut icon" href="<%= BASE_URL %>favicon.ico" />
+    <link
+      rel="apple-touch-icon"
+      sizes="76x76"
+      href="<%= BASE_URL %>apple-icon.png"
+    />
+    <title>
+      ameisetech - Innovative Tech Solutions for a Sustainable Future
+    </title>
+  </head>
+  <body class="text-blueGray-700 antialiased">
+    
+    <div id="app"></div>
+<style scoped>
+    footer > div.absolute.pointer-events-none {
+      display: none;
+    }
+</style>
+<script>
+watch: {
+  "$route.hash"(hash) {
+    if (!hash) return;
+
+    this.$nextTick(() => {
+      const el = document.querySelector(hash);
+      if (el) {
+        el.setAttribute("tabindex", "-1");
+        el.scrollIntoView({ behavior: "smooth" });
+        el.focus({ preventScroll: true });
+      }
+      else {
+      // No hash? Scroll to top
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+
+    });
+  }
+},
+
+</script>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
