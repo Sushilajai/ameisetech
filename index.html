@@ -1,1 +1,21 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width,initial-scale=1"/><link rel="shortcut icon" href="/ameisetech/favicon.ico"/><link rel="apple-touch-icon" sizes="76x76" href="/ameisetech/apple-icon.png"/><script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script><title>Vue Notus by Creative Tim | Free and Open Source UI Kit</title><script defer="defer" src="/ameisetech/js/chunk-vendors.d8bed8cf.js"></script><script defer="defer" src="/ameisetech/js/app.a3c28a90.js"></script><link href="/ameisetech/css/chunk-vendors.5c23c5a3.css" rel="stylesheet"><link href="/ameisetech/css/app.21e4e2f3.css" rel="stylesheet"></head><body class="text-blueGray-700 antialiased"><noscript><strong>We're sorry but vue-notus doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"></div></body></html>
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width,initial-scale=1"/><link rel="shortcut icon" href="/favicon.ico"/><link rel="apple-touch-icon" sizes="76x76" href="/apple-icon.png"/><title>ameisetech - Innovative Tech Solutions for a Sustainable Future</title><script defer="defer" src="/js/chunk-vendors.36cf4997.js"></script><script defer="defer" src="/js/app.631166cf.js"></script><link href="/css/chunk-vendors.ee411358.css" rel="stylesheet"><link href="/css/app.967d2339.css" rel="stylesheet"></head><body class="text-blueGray-700 antialiased"><div id="app"></div><style scoped>footer > div.absolute.pointer-events-none {
+      display: none;
+    }</style><script>watch: {
+  "$route.hash"(hash) {
+    if (!hash) return;
+
+    this.$nextTick(() => {
+      const el = document.querySelector(hash);
+      if (el) {
+        el.setAttribute("tabindex", "-1");
+        el.scrollIntoView({ behavior: "smooth" });
+        el.focus({ preventScroll: true });
+      }
+      else {
+      // No hash? Scroll to top
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }
+
+    });
+  }
+},</script></body></html>
