@@ -117,9 +117,9 @@
 
                   <!-- SUBMIT BUTTON -->
                   <div class="text-center mt-6">
-                    <button @click="submitForm"
-                      class="bg-blueGray-800 text-white text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg transition-all duration-150">
-                      Send Message
+                    <button @click="submitForm" :disabled="sending"
+                      class="bg-blueGray-800 text-white text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg transition-all duration-150 disabled:opacity-50">
+                      {{ sending ? 'Sending...' : 'Send Message' }}
                     </button>
                   </div>
 
@@ -138,10 +138,11 @@
 <script>
 import IndexNavbar from "@/components/Navbars/IndexNavbar.vue";
 import FooterComponent from "@/components/Footers/Footer.vue";
+import emailjs from "emailjs-com";
 
 export default {
   components: { IndexNavbar, FooterComponent },
-
+//service_ohou18q,template_p2mycyw, WfDiu6kITgai1xMcq     //-publicKey
   data() {
     return {
       form: {
@@ -153,35 +154,57 @@ export default {
         sector: "",
         message: "",
       },
+      sending: false,
     };
   },
 
   methods: {
     submitForm() {
-      // BASIC FRONTEND VALIDATION
+      // BASIC VALIDATION
       if (!this.form.fullName || !this.form.email || !this.form.phone) {
         alert("Please fill required fields.");
         return;
       }
 
-      // PRINT RESULT (you can connect API here)
-      console.log("Form Data Submitted:", this.form);
+      this.sending = true;
 
-      // TODO: SEND TO BACKEND
-      // axios.post("https://your-api-url/contact", this.form)
-
-      alert("Your message has been submitted!");
-      
-      // Reset form
-      this.form = {
-        fullName: "",
-        email: "",
-        phone: "",
-        organization: "",
-        designation: "",
-        sector: "",
-        message: "",
+      const templateParams = {
+        name: this.form.fullName,
+        email: this.form.email,
+        phone: this.form.phone,
+        organization: this.form.organization,
+        designation: this.form.designation,
+        sector: this.form.sector,
+        message: this.form.message,
       };
+
+      emailjs
+        .send(
+          "service_ohou18q",
+          "template_p2mycyw",
+          templateParams,
+          "WfDiu6kITgai1xMcq"
+        )
+        .then(() => {
+          this.sending = false;
+          alert("Email sent successfully!");
+
+          // Reset form
+          this.form = {
+            fullName: "",
+            email: "",
+            phone: "",
+            organization: "",
+            designation: "",
+            sector: "",
+            message: "",
+          };
+        })
+        .catch((error) => {
+          this.sending = false;
+          console.error(error);
+          alert("Failed to send email. Please try again.");
+        });
     },
   },
 };

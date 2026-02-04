@@ -120,10 +120,10 @@
         Software Services
       </span>
       <router-link
-        to="/software-services#web-application-development"
+        to="/software-services#ai-implementation"
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
       >
-        Web Application Development
+        AI Implementation
       </router-link>
       <router-link
         to="/software-services#custom-software-development"
@@ -144,10 +144,10 @@
         IT Security & Compliance
       </router-link>
       <router-link
-        to="/software-services#it-consulting-support"
+        to="/software-services#it-consulting-services"
         class="text-sm py-2 px-4 font-normal block w-full whitespace-nowrap bg-transparent text-blueGray-700 align-height"
       >
-        IT Consulting & Support
+        IT Consulting & Services
       </router-link>
       <router-link
         to="/systems-integration"

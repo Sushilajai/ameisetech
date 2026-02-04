@@ -44,8 +44,7 @@
                                     </div>
                                     <h6 class="text-xl font-semibold"> Contract Design & Feasibility </h6>
                                     <p class="mt-2 mb-4 text-blueGray-500">
-                                        Divide details about your product or agency work into parts.
-                                        A paragraph describing a feature will be enough.
+                                        We assess requirements, risks, and technical viability to ensure projects are well-defined and positioned for successful execution.
                                     </p>
                                 </div>
                             </div>
@@ -61,8 +60,7 @@
                                     </div>
                                     <h6 class="text-xl font-semibold"> Operation & Maintenance Support</h6>
                                     <p class="mt-2 mb-4 text-blueGray-500">
-                                        Keep you user engaged by providing meaningful information.
-                                        Remember that by this time, the user is curious.
+                                        We provide ongoing support to maintain system performance, reliability, and stability throughout the solution lifecycle.
                                     </p>
                                 </div>
                             </div>
@@ -78,8 +76,7 @@
                                     </div>
                                     <h6 class="text-xl font-semibold"> Program Monitoring &  Management </h6>
                                     <p class="mt-2 mb-4 text-blueGray-500">
-                                        Write a few lines about each one. A paragraph describing a
-                                        feature will be enough. Keep you user engaged!
+                                        We oversee program progress, performance, and risks to ensure initiatives remain aligned with timelines, budgets, and business objectives.
                                     </p>
                                 </div>
                             </div>
@@ -139,16 +136,7 @@
                                         </span>
                                     </div>
                                 </li>
-                                <li class="py-2">
-                                    <div class="flex items-center">
-                                        <i class="fas fa-check text-green-500 mr-2"></i>
-                                        <span class="text-blueGray-600">
-                                            <span class="font-semibold">
-                                                API Development & Integration </span> – Smooth connectivity between your
-                                            web app and third-party systems.
-                                        </span>
-                                    </div>
-                                </li>
+                               
                                 <li class="py-2">
                                     <div class="flex items-center">
                                         <i class="fas fa-check text-green-500 mr-2"></i>
@@ -159,7 +147,7 @@
                                         </span>
                                     </div>
                                 </li>
-                                <li class="py-2">
+                                <!-- <li class="py-2">
                                     <div class="flex items-center">
                                         <i class="fas fa-check text-green-500 mr-2"></i>
                                         <span class="text-blueGray-600">
@@ -168,7 +156,7 @@
                                             support your applications.
                                         </span>
                                     </div>
-                                </li>
+                                </li> -->
                             </ul>
                         </div>
 
@@ -241,7 +229,7 @@
                                 <h3 class="text-3xl font-semibold">Operation & Maintenance Support (O&M)</h3>
                                 <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
 
-                                  <span class="text-emerald-500 font-semibold">Operation & Maintenance Support (O&M)</span> services are designed to ensure your systems run smoothly
+                                  <span class="text-emerald-700 font-bold">Operation & Maintenance Support (O&M)</span> services are designed to ensure your systems run smoothly
                                     and efficiently. We provide tailored solutions that perfectly align with your business processes.
                                 </p>
                                 <ul class="list-none mt-6">
@@ -377,7 +365,7 @@
                                 </li>
                                 <li class="py-2">
                                     <div class="flex items-center"><i class="fas fa-check text-green-500 mr-2"></i><span
-                                            class="text-blueGray-600"><span class="font-semibold">Managed Cloud Services</span> – Interactive tools that simplify financial data for quick decision-making.</span></div>
+                                            class="text-blueGray-600"><span class="font-semibold">Interactive tool</span> – Simplify financial data for quick decision-making.</span></div>
                                 </li>
                                 
                             </ul>
@@ -432,7 +420,7 @@
                     <div class="items-center flex flex-wrap" id="smart-infrastructure-services">
                         <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
                             <img alt="..." class="max-w-full rounded-lg shadow-lg"
-                                src="@/assets/img/iStock-1483783047-Kopie-1280x1212.webp" />
+                                src="@/assets/img/Smart-Infrastructure-Services.png" />
                         </div>
                         <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
                             <div class="md:pr-12">
@@ -455,6 +443,14 @@ At <span class="text-blueGray-700 font-bold">AmeiseTech</span>, we empower citie
                                         <i class="fas fa-check text-green-500 mr-2"></i><span
                                             class="text-blueGray-600">
                                             <span class="font-semibold">Smart Cities Solutions</span> – IoT-enabled systems for traffic, utilities, and public safety.
+                                        </span>
+                                    </div>
+                                </li>
+                                <li class="py-2">
+                                    <div class="flex items-center">
+                                        <i class="fas fa-check text-green-500 mr-2"></i><span
+                                            class="text-blueGray-600">
+                                            <span class="font-semibold">Surveillance</span> – AI based Video Analytics, CCTV installation and Integration.
                                         </span>
                                     </div>
                                 </li>
@@ -482,7 +478,7 @@ At <span class="text-blueGray-700 font-bold">AmeiseTech</span>, we empower citie
                                 </li>
                                 <li class="py-2">
                                     <div class="flex items-center"><i class="fas fa-check text-green-500 mr-2"></i><span
-                                            class="text-blueGray-600"><span class="font-semibold">Managed Cloud Services</span> – Interactive tools that simplify financial data for quick decision-making.</span></div>
+                                            class="text-blueGray-600"><span class="font-semibold">Managed Services</span> –  Interactive tools for management and services to manage organization IT Infrastructure </span></div>
                                 </li>
                                 
                             </ul>

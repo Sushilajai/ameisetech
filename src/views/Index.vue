@@ -12,8 +12,7 @@
               AmeiseTech is a  Smart Infra Startup providing  Digital solutions to drive Sustainability.
             </h2>
             <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
-Ameisetech is a strong proponent of the circular economy, committed to delivering sustainable solutions for digital transformation. Sustainability is at the heart of everything we do—whether it’s design, program management, services, or innovation—ensuring that every solution we provide contributes to a greener and more responsible future.
-              <a
+Ameisetech is your digital transformation partner in achieving Net-Zero excellence and integrating resource efficiency. We deliver sustainable digital transformation by prioritizing resource efficiency and lifecycle management in all our ICT and MSI deployments. Sustainability is at the heart of everything we do—whether it’s design, program management, services, or innovation—ensuring that every solution we provide contributes to a greener and more responsible future              <a
                 href="https://tailwindcss.com/?ref=creativetim"
                 class="text-blueGray-600"
                 target="_blank"
@@ -89,7 +88,7 @@ Ameisetech is a strong proponent of the circular economy, committed to deliverin
                   AI & Digital Solutions for a Sustainable Future
                 </h4>
                 <p class="text-md font-light mt-2 text-white">
-                  We harness the power of Artificial Intelligence and cutting-edge digital technologies to drive sustainability across industries. Our innovative solutions help organizations reduce their environmental impact, optimize resource usage, and achieve their sustainability goals. From smart infrastructure to intelligent data analytics, we are committed to creating a greener, more sustainable future through technology.
+                  We leverage the power of Artificial Intelligence and cutting-edge digital technologies to drive sustainability across industries. Our innovative solutions help organizations reduce their environmental impact, optimize resource usage, and achieve their sustainability goals. From smart infrastructure to intelligent data analytics, we are committed to creating a greener, more sustainable future through technology.
                 <a href="/sustainability-consulting" class="text-white underline">Read more</a>
                 </p>
               </blockquote>
@@ -478,9 +477,9 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
           <div class="w-full md:w-9/12 px-4 mr-auto ml-auto mt-32 relative" style="    margin-top: 2rem;
 ">
             <map-example />
-            <i
+            <!-- <i
               class="fa fa-globe text-blueGray-700 text-55 absolute -top-150-px -right-100 left-auto opacity-80"
-            ></i>
+            ></i> -->
           </div>
         </div>
       </div>

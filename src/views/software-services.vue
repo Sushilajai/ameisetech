@@ -43,9 +43,9 @@
                                         class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400">
                                         <i class="fas fa-award"></i>
                                     </div>
-                                    <h6 class="text-xl font-semibold"> Web Application Development </h6>
+                                    <h6 class="text-xl font-semibold"> Application Development </h6>
                                     <p class="mt-2 mb-4 text-blueGray-500">
-                                     We provide custom web application solutions across ERP, CRM, and FinTech, helping businesses streamline operations, improve efficiency, and scale with confidence.
+                                     We build robust, high-performance applications tailored to your unique workflows and business needs, using modern frameworks and best development practices.
 
                                     </p>
                                 </div>
@@ -62,7 +62,8 @@
                                     </div>
                                     <h6 class="text-xl font-semibold">IT Security & Compliance</h6>
                                     <p class="mt-2 mb-4 text-blueGray-500">
-                                        We offer comprehensive IT security and compliance services, including risk assessments, data protection, threat monitoring, and incident response to safeguard your business.
+In today’s digital landscape, security is not optional — it’s essential. We provide comprehensive protection for your digital assets, whether hosted on-premise, in the cloud, or across distributed networks. Our approach combines rigorous auditing with proactive defense to secure everything from corporate headquarters to global data hubs.
+
                                     </p>
                                 </div>
                             </div>
@@ -76,9 +77,9 @@
                                         class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-emerald-400">
                                         <i class="fas fa-fingerprint"></i>
                                     </div>
-                                    <h6 class="text-xl font-semibold">Cloud Solutions & Migration </h6>
+                                    <h6 class="text-xl font-semibold">Cloud-Native Application Development </h6>
                                     <p class="mt-2 mb-4 text-blueGray-500">
-                                        We provide cloud solutions and migration services to help businesses transition smoothly to cloud environments, ensuring scalability, security, and cost-efficiency.
+                                        Develop and modernize applications using cloud-native architectures, microservices, and containerization for improved scalability and performance.
                                     </p>
                                 </div>
                             </div>
@@ -86,21 +87,19 @@
 
                     </div>
 
-                    <div class="flex flex-wrap items-center mt-32" id="web-application-development">
+                    <div class="flex flex-wrap items-center mt-32" id="ai-implementation">
                         <div class="w-full md:w-5/12 px-4 mr-auto ml-auto" >
                             <div
                                 class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
                                 <i class="fas fa-laptop-code text-xl"></i>
                             </div>
                             <h3 class="text-3xl mb-2 font-semibold leading-normal">
-                                Web Application Development
+                                AI Implementation
                             </h3>
                             <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
-                                In the digital-first era, your application is often the first point of
-                                contact for customers. Our <span class="text-blueGray-700 font-bold">Web Application
-                                    Development</span> services help businesses build scalable, secure, and
-                                high-performing applications that deliver seamless user experiences.
-                            </p>
+Artificial Intelligence is transforming how businesses operate, decide, and grow. At Ameisetech, we help organizations implement practical, scalable AI solutions that drive automation, intelligence, and measurable business outcomes.
+
+Our AI implementations are designed to seamlessly integrate with your existing systems, ensuring improved efficiency, smarter decision-making, and future-ready innovation—without unnecessary complexity.                            </p>
                             <ul class="list-none mt-6">
                                 <span
                                     class="text-sm pt-2 pb-0 px-4 font-bold block w-full whitespace-nowrap bg-transparent text-blueGray-400 MenuDropdown-item">
@@ -110,8 +109,8 @@
                                         <i class="fas fa-check text-green-500 mr-2"></i>
                                         <span class="text-blueGray-600">
                                             <span class="font-semibold">
-                                                Custom Web Applications </span>– Tailored solutions built to meet your
-                                            specific business requirements.
+                                                AI Strategy & Use-Case Identification
+ </span>– We analyze your business processes to identify high-impact AI opportunities and define a clear implementation roadmap aligned with your goals.
                                         </span>
                                     </div>
                                 </li>
@@ -120,8 +119,8 @@
                                         <i class="fas fa-check text-green-500 mr-2"></i>
                                         <span class="text-blueGray-600">
                                             <span class="font-semibold">
-                                                Responsive Design</span> – Applications that work flawlessly across
-                                            desktops, tablets, and mobile devices.
+                                                Machine Learning & Predictive Analytics
+</span> – Leverage data-driven insights with machine learning models that forecast trends, detect anomalies, and support smarter business decisions.
                                         </span>
                                     </div>
                                 </li>
@@ -130,7 +129,8 @@
                                         <i class="fas fa-check text-green-500 mr-2"></i>
                                         <span class="text-blueGray-600">
                                             <span class="font-semibold">
-                                                latest technologies</span> – Utilizing modern frameworks like React, Angular, Vue.js, and Node.js.
+                                                Intelligent Automation
+</span> – Automate repetitive and rule-based processes using AI-powered workflows to improve accuracy, speed, and operational efficiency.
                                         </span>
                                     </div>
                                 </li>
@@ -139,8 +139,8 @@
                                         <i class="fas fa-check text-green-500 mr-2"></i>
                                         <span class="text-blueGray-600">
                                             <span class="font-semibold">
-                                                Progressive Web Apps (PWAs)</span> – Fast, reliable, and engaging apps
-                                            that blend the best of web and mobile.
+                                                Natural Language Processing (NLP)
+</span> – Implement chatbots, virtual assistants, document processing, and sentiment analysis to enhance customer support and internal operations.
                                         </span>
                                     </div>
                                 </li>
@@ -149,8 +149,8 @@
                                         <i class="fas fa-check text-green-500 mr-2"></i>
                                         <span class="text-blueGray-600">
                                             <span class="font-semibold">
-                                                API Development & Integration </span> – Smooth connectivity between your
-                                            web app and third-party systems.
+                                                Computer Vision Solutions
+ </span> – Enable image and video analysis for monitoring, detection, recognition, and quality control use cases.
                                         </span>
                                     </div>
                                 </li>
@@ -159,21 +159,12 @@
                                         <i class="fas fa-check text-green-500 mr-2"></i>
                                         <span class="text-blueGray-600">
                                             <span class="font-semibold">
-                                                Maintenance & Support </span> – Continuous monitoring, upgrades, and
-                                            technical support to keep your apps running smoothly.
+                                                Responsible & Secure AI
+ </span> – We ensure AI models are transparent, secure, compliant, and ethically implemented, with a strong focus on data privacy and governance.
                                         </span>
                                     </div>
                                 </li>
-                                <li class="py-2">
-                                    <div class="flex items-center">
-                                        <i class="fas fa-check text-green-500 mr-2"></i>
-                                        <span class="text-blueGray-600">
-                                            <span class="font-semibold">
-                                                Cloud Solutions </span> – Scalable and secure cloud infrastructure to
-                                            support your applications.
-                                        </span>
-                                    </div>
-                                </li>
+                                
                             </ul>
                         </div>
 
@@ -181,9 +172,9 @@
                             <div
                                 class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-emerald-500">
                                 <img alt="..."
-                                    src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
-                                    class="w-full align-middle rounded-t-lg" />
-                                <blockquote class="relative p-8 mb-4">
+                                    src="@/assets/img/AI-Implementation.png"
+                                    class="max-w-full rounded-lg shadow-lg" />
+                                <!-- <blockquote class="relative p-8 mb-4">
                                     <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"
                                         viewBox="0 0 583 95" class="absolute left-0 w-full block h-95-px -top-94-px">
                                         <polygon points="-30,95 583,95 583,65" class="text-emerald-500 fill-current">
@@ -193,7 +184,7 @@
                                     <ul>
 
                                         <h4 class="text-xl font-bold text-white">
-                                            Benefits of Our Web Application Development
+                                            Benefits of Our Application Development
                                         </h4>
                                         <li class="text-md font-light mt-2 text-white">
                                             Improved customer engagement with intuitive UI/UX
@@ -215,7 +206,7 @@
                                             through innovation and modern technologies
                                         </li>
                                     </ul>
-                                </blockquote>
+                                </blockquote> -->
                             </div>
                         </div>
                     </div>
@@ -235,7 +226,7 @@
                     <div class="items-center flex flex-wrap" id="custom-software-development">
                         <div class="w-full md:w-4/12 ml-auto mr-auto px-4">
                             <img alt="..." class="max-w-full rounded-lg shadow-lg"
-                                src="@/assets/img/custom-software-development.jpg" />
+                                src="@/assets/img/custom-software-development.png" />
                         </div>
                         <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
                             <div class="md:pr-12">
@@ -247,8 +238,7 @@
                                 <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
                                     Every business is unique, and so are its challenges. Off-the-shelf solutions often
                                     fail to deliver the flexibility and efficiency that organizations need to stay
-                                    ahead. Our <span class="text-emerald-500 font-semibold">Custom Software
-                                        Development</span> services are designed to build powerful, scalable, and
+                                    ahead. Our Custom Software Development services are designed to build powerful, scalable, and
                                     tailored solutions that perfectly align with your business processes.
                                 </p>
                                 <ul class="list-none mt-6">
@@ -446,7 +436,7 @@
                         <div class="w-full md:w-5/12 ml-auto mr-auto px-4">
                             <div class="md:pr-12">
                                 <div
-                                    class="text-emerald-600 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-emerald-300">
+                                    class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
                                     <i class="fas fa-rocket text-xl"></i>
                                 </div>
                                <h3 class="text-3xl mb-2 font-semibold leading-normal"> IT Security & Compliance
@@ -461,13 +451,13 @@
                                         <div class="flex items-center">
                                             <div>
                                                 <span
-                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 bg-emerald-200 mr-3">
+                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 text-blueGray-500 mr-3">
                                                     <i class="far fa-paper-plane"></i>
                                                 </span>
                                             </div>
                                             <div>
                                                 <h4 class="text-blueGray-500">
-                                                    Access Control and Identity Management
+                                                    Architecting secure identity and access frameworks.
                                                 </h4>
                                             </div>
                                         </div>
@@ -476,13 +466,13 @@
                                         <div class="flex items-center">
                                             <div>
                                                 <span
-                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 bg-emerald-200 mr-3">
+                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 text-blueGray-500 mr-3">
                                                     <i class="far fa-paper-plane"></i>
                                                 </span>
                                             </div>
                                             <div>
                                                 <h4 class="text-blueGray-500">
-                                                    Risk Management
+Hardening cloud, hybrid, and physical environments.
                                                 </h4>
                                             </div>
                                         </div>
@@ -491,13 +481,14 @@
                                         <div class="flex items-center">
                                             <div>
                                                 <span
-                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 bg-emerald-200 mr-3">
+                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 text-blueGray-500 mr-3">
                                                     <i class="far fa-paper-plane"></i>
                                                 </span>
                                             </div>
                                             <div>
                                                 <h4 class="text-blueGray-500">
-                                                    Security Policies and Procedures</h4>
+                                                   Securing mission-critical hubs and remote operations.
+</h4>
                                             </div>
                                         </div>
                                     </li>
@@ -505,12 +496,13 @@
                                         <div class="flex items-center">
                                             <div>
                                                 <span
-                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 bg-emerald-200 mr-3">
+                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 text-blueGray-500 mr-3">
                                                     <i class="far fa-paper-plane"></i>
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">Technical Security Measures</h4>
+                                                <h4 class="text-blueGray-500">24/7 monitoring with automated threat response.
+</h4>
                                             </div>
                                         </div>
                                     </li>
@@ -518,12 +510,13 @@
                                         <div class="flex items-center">
                                             <div>
                                                 <span
-                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 bg-emerald-200 mr-3">
+                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 text-blueGray-500 mr-3">
                                                     <i class="far fa-paper-plane"></i>
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">Vendor Security Assessments</h4>
+                                                <h4 class="text-blueGray-500">Ensuring compliance with national security norms.
+</h4>
                                             </div>
                                         </div>
                                     </li>
@@ -531,12 +524,25 @@
                                         <div class="flex items-center">
                                             <div>
                                                 <span
-                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 bg-emerald-200 mr-3">
+                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 text-blueGray-500 mr-3">
                                                     <i class="far fa-paper-plane"></i>
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">Incident Response and Recovery</h4>
+                                                <h4 class="text-blueGray-500">Implementing resilient disaster recovery strategies.</h4>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="py-2">
+                                        <div class="flex items-center">
+                                            <div>
+                                                <span
+                                                    class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-emerald-600 text-blueGray-500 mr-3">
+                                                    <i class="far fa-paper-plane"></i>
+                                                </span>
+                                            </div>
+                                            <div>
+                                                <h4 class="text-blueGray-500">Protecting data across all connected endpoints.</h4>
                                             </div>
                                         </div>
                                     </li>
@@ -546,7 +552,7 @@
                     </div>
 
 
-                    <div class="flex flex-wrap items-center mt-32" id="it-consulting-support">
+                    <div class="flex flex-wrap items-center mt-32" id="it-consulting-services">
                         <div class="w-full md:w-5/12 px-4 mr-auto ml-auto">
                             <div
                                 class="text-blueGray-500 p-3 text-center inline-flex items-center justify-center w-16 h-16 mb-6 shadow-lg rounded-full bg-white">
@@ -599,7 +605,7 @@ Our experts partner with you to assess, plan, implement, and manage technology s
                             <div
                                 class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-emerald-500">
                                 <img alt="..."
-                                    src="@/assets/img/it-consulting-support.jpg"
+                                    src="@/assets/img/it-consulting-support.png"
                                     class="w-full align-middle rounded-t-lg">
                                 <blockquote class="relative p-8 mb-4"><svg preserveAspectRatio="none"
                                         xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95"
@@ -608,17 +614,17 @@ Our experts partner with you to assess, plan, implement, and manage technology s
                                         </polygon>
                                     </svg>
                                     <ul>
-                                        <h4 class="text-xl font-bold text-white"> Benefits of Cloud Migration
-                                            Development </h4>
-                                        <li class="text-md font-light mt-2 text-white"> Reduce IT infrastructure costs</li>
+                                        <h4 class="text-xl font-bold text-white"> Benefits of IT Consulting & Services </h4>
+                                        <li class="text-md font-light mt-2 text-white"> <i
+                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Strategic Technology Alignment</li>
                                         <li class="text-md font-light mt-2 text-white"><i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Improve scalability and flexibility</li>
+                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Cost Optimization & Efficiency</li>
                                         <li class="text-md font-light mt-2 text-white"><i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Enhance performance and reliability</li>
+                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Access to Expert Knowledge</li>
                                         <li class="text-md font-light mt-2 text-white"><i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Strengthen data security</li>
+                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Improved Security & Compliance</li>
                                         <li class="text-md font-light mt-2 text-white"><i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Accelerate innovation and digital transformation</li>
+                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Scalability & Future Readiness</li>
                                     </ul>
                                 </blockquote>
                             </div>
