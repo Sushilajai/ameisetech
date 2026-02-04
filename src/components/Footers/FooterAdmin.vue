@@ -11,10 +11,10 @@
           >
             Copyright © {{ date }}
             <a
-              href="https://www.creative-tim.com?ref=vn-footer-admin"
+              href="https://ameisetech.com"
               class="text-blueGray-500 hover:text-blueGray-700 text-sm font-semibold py-1"
             >
-              Creative Tim
+              AmeiseTech
             </a>
           </div>
         </div>

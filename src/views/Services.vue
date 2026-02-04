@@ -69,7 +69,9 @@
               
             </div>
             <p class="text-lg leading-relaxed m-4 text-blueGray-500">
-              Smart cities use Internet of Things (IoT) devices such as connected sensors, lighting, and meters to collect the data. The cities then use this data to improve infrastructure, energy consumption, public utilities and more. The model of smart city management is to develop a city with sustainable growth, focusing on the balance of environment and energy saving, bringing smart cities into Industry 4.0
+              Ameisetech serves as a turnkey partner for Smart and Safe City initiatives for IT infrastructure. We bring deep-domain expertise in the design, integration, and O&M (Operations & Maintenance) of components like Advance Surveillance, Command Control Centre, E-governance, GIS, Intelligent Traffic Management, Vehicle tracking system, Smart Lighting, Solid waste management, Environmental sensor, Utility integration etc. We can also help Authority to plan monetization through Video display board, e-challan, Smart Parking, Public Wi-Fi, Fiber to home, Unified payment portal and digital wallets. The cities then use this data to improve infrastructure, energy consumption, public utilities and more. The model of smart city management is to develop a city with sustainable growth, focusing on the balance of environment and energy saving and revenue generation.
+
+
 
 
               </p>
@@ -154,14 +156,14 @@ The best way to understand digital twins is on a scale of five dimensions rangin
 
 </p>
               <div class="flex flex-wrap" style="width: 70%;">
-           <img alt="..." class="max-w-full rounded-lg shadow-lg"
+           <img alt="..." class=""
                                 src="@/assets/img/5-dimension-digital-twin.webp" />
               </div>
               
               <!-- <h2 class="text-4xl font-semibold" style="margin-top: 10px;">How Does A Digital Twin Work?</h2> -->
               <p class="text-lg leading-relaxed m-4 text-blueGray-500">Digital twins work by using real-time data from sensors installed on physical assets. This data is transmitted to the digital twin, which uses it to create a virtual representation of the asset. The digital twin can then be used to monitor the asset's performance, identify potential issues, and optimize its operation.</p>
            <div class="flex flex-wrap" style="width: 70%;">
-           <img alt="..." class="max-w-full rounded-lg shadow-lg top-10"
+           <img alt="..." class=""
                                 src="@/assets/img/How-To-Create-A-Digital-Twin.png" />
               
               </div>
