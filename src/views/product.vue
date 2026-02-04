@@ -63,7 +63,7 @@
                             <div style="background-color: #a89f1e;"
                                 class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-emerald-500">
                                 <img alt="..."
-                                    src="@/assets/img/hrms.webp"
+                                    src="@/assets/img/EALMS.png"
                                     class="w-full align-middle rounded-t-lg" />
                                 <blockquote class="relative p-8 mb-4">
                                     <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"
@@ -75,17 +75,17 @@
                                     <ul>
 
                                         <h4 class="text-xl font-bold text-white">
-                                            HRMS
+                                            Employee Attendance and Leave Management System (EALMS)
                                         </h4>
-                                        <span style="color: white;">we provide a smart and intuitive HRMS solution that helps organizations manage their human resources efficiently and effectively</span>
+                                        <span style="color: white;">we provide a smart and intuitive EALMS solution that helps organizations manage their employee attendance and leave efficiently and effectively</span>
                                         <li class="text-md font-light mt-2 text-white">
                                             <i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>
-                                                Automate repetitive HR tasks
+                                                Automate repetitive tasks such as attendance tracking, leave requests, and approvals
                                         </li>
                                         <li class="text-md font-light mt-2 text-white"> <i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>
-                                                Stay aligned with labor laws and regulations
+                                                Real-time attendance tracking and reporting.
                                         </li>
                                         <li class="text-md font-light mt-2 text-white"> <i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>
@@ -93,10 +93,15 @@
                                         </li>
                                         <li class="text-md font-light mt-2 text-white"> <i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>
-                                                Analytics for workforce planning and management.
+                                                accurate leave balance calculations and reporting.
                                         </li>
                                         <li class="text-md font-light mt-2 text-white"> <i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Flexible solution for startups, SMEs, and enterprises.
+                                                class="fas fa-dot-circle text-green-500 mr-2"></i>
+                                                accessible via web and mobile devices.
+                                        </li>
+                                        <li class="text-md font-light mt-2 text-white"> <i
+                                                class="fas fa-dot-circle text-green-500 mr-2"></i>
+                                                Flexible solution for startups, SMEs, and enterprises.
                                         </li>
                                     </ul>
                                 </blockquote>
@@ -106,7 +111,7 @@
                             <div style="background-color: #e85c4a;"
                                 class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-emerald-500">
                                 <img alt="..."
-                                    src="@/assets/img/project-estimater.jpg"
+                                    src="@/assets/img/project-estimater.png"
                                     class="w-full align-middle rounded-t-lg" />
                                 <blockquote class="relative p-8 mb-4">
                                     <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"
@@ -121,7 +126,7 @@
                                             Project Estimator 
                                         </h4>
                                         <span style="color: white;">Project Estimator is a smart and intuitive solution that helps organizations estimate project costs, resources, and timelines with accuracy and efficiency.</span>
-                                        <li class="text-md font-light mt-2 text-white">
+                                         <li class="text-md font-light mt-2 text-white">
                                            <i class="fas fa-paper-plane text-green-500 mr-2"></i>
                                             Accurate cost estimation using historical data and industry benchmarks
                                         </li>

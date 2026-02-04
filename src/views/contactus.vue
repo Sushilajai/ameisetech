@@ -119,7 +119,7 @@
                   <div class="text-center mt-6">
                     <button @click="submitForm" :disabled="sending"
                       class="bg-blueGray-800 text-white text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg transition-all duration-150 disabled:opacity-50">
-                      {{ sending ? 'Sending...' : 'Send Message' }}
+                      {{ sending ? 'Sending...' : 'Send Email' }}
                     </button>
                   </div>
 
