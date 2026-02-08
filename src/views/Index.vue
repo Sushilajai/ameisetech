@@ -87,7 +87,7 @@ Ameisetech is your digital transformation partner in achieving Net-Zero excellen
                 <h4 class="text-xl font-bold text-white">
                   AI & Digital Solutions for a Sustainable Future
                 </h4>
-                <p class="text-md font-light mt-2 text-white">
+                <p class="text-md mt-2 text-white">
                   We leverage the power of Artificial Intelligence and cutting-edge digital technologies to drive sustainability across industries. Our innovative solutions help organizations reduce their environmental impact, optimize resource usage, and achieve their sustainability goals. From smart infrastructure to intelligent data analytics, we are committed to creating a greener, more sustainable future through technology.
                 <a href="/sustainability-consulting" class="text-white underline">Read more</a>
                 </p>
@@ -192,7 +192,7 @@ Our System Integration services ensure that all your IT assets — whether legac
               Our Vision:
             </h3>
             <p
-              class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
+              class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-500"
             >
               Our vision is to be recognized as a global leader and trusted partner in next-generation information technology solutions. With a passionate team of technocrats, we empower clients to achieve superior value from their technology investments through innovation and excellence.
 We are committed to going beyond expectations—building robust infrastructure, upholding strong work ethics, and addressing the opportunities of emerging markets.
@@ -203,7 +203,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
               Innovation and Leadership:
             </h3>
             <p
-              class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
+              class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-600"
             >
               We strive to be at the forefront of technological innovation, continuously exploring new ideas and solutions to meet the evolving needs of our clients and the industry.
             </p>
@@ -211,7 +211,7 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
               Customer-Centric Approach:
             </h3>
             <p
-              class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
+              class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-600"
             >
               We prioritize our clients' needs and work collaboratively to deliver tailored solutions that drive success and satisfaction.
             </p>
@@ -379,27 +379,27 @@ By earning trust, delivering only the best, and nurturing long-lasting relations
               Why Choose Us
             </h3>
             <p
-              class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
+              class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-500"
             >
               At AmeiseTech, we don’t just deliver technology — we deliver trust, innovation, and measurable results. Here’s why clients choose us as their long-term partner
             </p>
             <ul class="list-disc list-inside">
-              <li>
+              <li class="text-blueGray-500">
                 <strong>Proven Expertise</strong> – Our team of skilled IT professionals brings years of experience across industries and technologies.
               </li>
-              <li>
+              <li class="text-blueGray-500">
                 <strong>Quality & Reliability</strong> – We follow global best practices, ensuring high-quality deliverables you can trust.
               </li>
-              <li>
+              <li class="text-blueGray-500">
                 <strong>Innovative Solutions</strong> – We design creative, future-ready solutions that solve today’s challenges and prepare you for tomorrow.
               </li>
-              <li>
+              <li class="text-blueGray-500">
                <strong>End-to-End Support</strong> – From consulting to implementation and ongoing support, we are with you at every step of the journey.
               </li>
-              <li>
+              <li class="text-blueGray-500">
                 <strong>Quality & Reliability</strong> – We follow global best practices, ensuring high-quality deliverables you can trust.
               </li>
-            <li>
+            <li class="text-blueGray-500">
                <strong>Sustainable Growth</strong> – We focus on building solutions that not only drive business success but also align with ethical and sustainable practices.
               </li>
             </ul>

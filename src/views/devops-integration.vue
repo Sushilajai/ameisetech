@@ -181,35 +181,35 @@
 </p>
 <h3 class="text-xl font-semibold text-left">Site Reliability</h3>
 <ul class="mb-4 text-lg leading-relaxed text-blueGray-700" >
-    <li class="text-md font-light mt-2 ">
+    <li class="text-md  mt-2 ">
                                            <i class="fas fa-paper-plane text-green-500 mr-2"></i>
                                            System availability and mission readiness analysis and related reliability and maintenance requirement allocation
 </li>
-    <li class="text-md font-light mt-2 ">
+    <li class="text-md  mt-2 ">
                                            <i class="fas fa-paper-plane text-green-500 mr-2"></i>
                                            Functional system failure analysis and derived requirements specification
 </li>
-    <li class="text-md font-light mt-2 ">
+    <li class="text-md  mt-2 ">
                                            <i class="fas fa-paper-plane text-green-500 mr-2"></i>
                                            Inherent (system) Design Reliability Analysis and derived requirements specification for both Hardware and Software design
 </li>
-<li class="text-md font-light mt-2 ">
+<li class="text-md  mt-2 ">
                                            <i class="fas fa-paper-plane text-green-500 mr-2"></i>
                                            System Diagnostics design
 </li>
-<li class="text-md font-light mt-2 ">
+<li class="text-md  mt-2 ">
                                            <i class="fas fa-paper-plane text-green-500 mr-2"></i>
                                            Fault tolerant systems (e.g. by redundancy)
 </li>
-<li class="text-md font-light mt-2 ">
+<li class="text-md  mt-2 ">
                                            <i class="fas fa-paper-plane text-green-500 mr-2"></i>
                                            Predictive and preventive maintenance (e.g. reliability cantered maintenance)
 </li>
-<li class="text-md font-light mt-2 ">
+<li class="text-md  mt-2 ">
                                            <i class="fas fa-paper-plane text-green-500 mr-2"></i>
                                            Human factors / Human interaction / Human errors
 </li>
-<li class="text-md font-light mt-2 ">
+<li class="text-md  mt-2 ">
                                            <i class="fas fa-paper-plane text-green-500 mr-2"></i>
                                            Manufacturing- and Assembly induced failures (effect on the detected “0hour Quality” and reliability)
 </li>

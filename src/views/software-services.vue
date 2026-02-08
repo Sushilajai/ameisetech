@@ -96,7 +96,7 @@ In today’s digital landscape, security is not optional — it’s essential. W
                             <h3 class="text-3xl mb-2 font-semibold leading-normal">
                                 AI Implementation
                             </h3>
-                            <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
+                            <p class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-600">
 Artificial Intelligence is transforming how businesses operate, decide, and grow. At Ameisetech, we help organizations implement practical, scalable AI solutions that drive automation, intelligence, and measurable business outcomes.
 
 Our AI implementations are designed to seamlessly integrate with your existing systems, ensuring improved efficiency, smarter decision-making, and future-ready innovation—without unnecessary complexity.                            </p>
@@ -174,40 +174,7 @@ Our AI implementations are designed to seamlessly integrate with your existing s
                                 <img alt="..."
                                     src="@/assets/img/AI-Implementation.png"
                                     class="max-w-full rounded-lg shadow-lg" />
-                                <!-- <blockquote class="relative p-8 mb-4">
-                                    <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"
-                                        viewBox="0 0 583 95" class="absolute left-0 w-full block h-95-px -top-94-px">
-                                        <polygon points="-30,95 583,95 583,65" class="text-emerald-500 fill-current">
-                                        </polygon>
-                                    </svg>
-
-                                    <ul>
-
-                                        <h4 class="text-xl font-bold text-white">
-                                            Benefits of Our Application Development
-                                        </h4>
-                                        <li class="text-md font-light mt-2 text-white">
-                                            Improved customer engagement with intuitive UI/UX
-                                        </li>
-                                        <li class="text-md font-light mt-2 text-white"> <i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Scalable solutions
-                                            that grow with your business
-                                        </li>
-                                        <li class="text-md font-light mt-2 text-white"> <i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Enhanced security with
-                                            best industry practices
-                                        </li>
-                                        <li class="text-md font-light mt-2 text-white"> <i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Faster time-to-market
-                                            with agile development
-                                        </li>
-                                        <li class="text-md font-light mt-2 text-white"> <i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Competitive edge
-                                            through innovation and modern technologies
-                                        </li>
-                                    </ul>
-                                </blockquote> -->
-                            </div>
+                               </div>
                         </div>
                     </div>
                 </div>
@@ -337,7 +304,7 @@ Our AI implementations are designed to seamlessly integrate with your existing s
                                 <i class="fas fa-laptop-code text-xl"></i></div>
                             <h3 class="text-3xl mb-2 font-semibold leading-normal"> Cloud Solutions & Migration
                             </h3>
-                            <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"> Unlock the power of the cloud with
+                            <p class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-600"> Unlock the power of the cloud with
                                 <span class="text-blueGray-700 font-bold">AmeiseTech</span> 
                                 We help businesses 
                                 <span class="text-blueGray-700 font-bold">migrate, modernize, and manage</span>
@@ -395,14 +362,14 @@ Our AI implementations are designed to seamlessly integrate with your existing s
                                     <ul>
                                         <h4 class="text-xl font-bold text-white"> Benefits of Cloud Migration
                                             Development </h4>
-                                        <li class="text-md font-light mt-2 text-white"> Reduce IT infrastructure costs</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md mt-2 text-white"> Reduce IT infrastructure costs</li>
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Improve scalability and flexibility</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Enhance performance and reliability</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Strengthen data security</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Accelerate innovation and digital transformation</li>
                                     </ul>
                                 </blockquote>
@@ -441,7 +408,7 @@ Our AI implementations are designed to seamlessly integrate with your existing s
                                 </div>
                                <h3 class="text-3xl mb-2 font-semibold leading-normal"> IT Security & Compliance
                             </h3>
-                            <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"> 
+                            <p class="text-lg  leading-relaxed mt-4 mb-4 text-blueGray-600"> 
                                 In today’s digital landscape,<span class="text-blueGray-700 font-bold"> security is not optional</span> — <span class="text-blueGray-700 font-bold">it’s essential</span>.
                                 The key areas such as access control, risk management, security policies, and vendor security assessments to ensure adherence to relevant standards and regulations.
                                 
@@ -559,7 +526,7 @@ Hardening cloud, hybrid, and physical environments.
                                 <i class="fas fa-laptop-code text-xl"></i></div>
                             <h3 class="text-3xl mb-2 font-semibold leading-normal"> IT Consulting & Services
                             </h3>
-                            <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"> 
+                            <p class="text-lg  leading-relaxed mt-4 mb-4 text-blueGray-600"> 
                                 Technology should drive your business forward, not hold it back. At <span class="text-blueGray-700 font-bold">AmeiseTech</span>, we provide <span class="text-blueGray-700 font-bold">strategic IT consulting and end-to-end services</span> that help organizations harness technology for growth, efficiency, and innovation.
 
 Our experts partner with you to assess, plan, implement, and manage technology solutions tailored to your unique needs — enabling you to stay competitive in a fast-changing digital world.
@@ -615,15 +582,15 @@ Our experts partner with you to assess, plan, implement, and manage technology s
                                     </svg>
                                     <ul>
                                         <h4 class="text-xl font-bold text-white"> Benefits of IT Consulting & Services </h4>
-                                        <li class="text-md font-light mt-2 text-white"> <i
+                                        <li class="text-md  mt-2 text-white"> <i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Strategic Technology Alignment</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Cost Optimization & Efficiency</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Access to Expert Knowledge</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Improved Security & Compliance</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Scalability & Future Readiness</li>
                                     </ul>
                                 </blockquote>

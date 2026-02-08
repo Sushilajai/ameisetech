@@ -125,14 +125,14 @@
                 Working with us is a pleasure
               </h3>
               <p
-                class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
+                class="text-lg  leading-relaxed mt-4 mb-4 text-blueGray-600"
               >
                 Don't let your uses guess by attaching tooltips and popoves to
                 any element. Just make sure you enable them first via
                 JavaScript.
               </p>
               <p
-                class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600"
+                class="text-lg leading-relaxed mt-0 mb-4 text-blueGray-600"
               >
                 The kit comes with three pre-built pages to help you get started
                 faster. You can change the text and images and you're good to
@@ -167,7 +167,7 @@
                   <h4 class="text-xl font-bold text-white">
                     Top Notch Services
                   </h4>
-                  <p class="text-md font-light mt-2 text-white">
+                  <p class="text-md mt-2 text-white">
                     The Arctic Ocean freezes every winter and much of the
                     sea-ice then thaws every summer, and that process will
                     continue whatever happens.

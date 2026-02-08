@@ -34,7 +34,7 @@
 
             <li class="flex items-center">
               <router-link to="/industries" class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold">Industries</router-link>
-              <router-link to="/partners-clients" class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold">Partners & Clients</router-link>
+              <router-link to="/our-network" class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold">Our Network</router-link>
               <router-link to="/products" class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold">Products</router-link>
               <router-link to="/contactus" class="hover:text-blueGray-500 text-blueGray-700 px-3 py-2 flex items-center text-xs uppercase font-bold">contact us</router-link>
 

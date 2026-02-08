@@ -93,7 +93,7 @@
                             <h3 class="text-3xl mb-2 font-semibold leading-normal">
                                Contract Design & Feasibility
                             </h3>
-                            <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
+                            <p class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-600">
                               Before every project begins, we ensure the foundation is solid. Our <span class="text-blueGray-700 font-bold">Contract Design & Feasibility</span> process helps organizations align expectations, assess risks, and validate technical and financial viability. This ensures smoother execution and long-term success.
                             </p>
                             <ul class="list-none mt-6">
@@ -166,40 +166,7 @@
                                 <img alt="..."
                                     src="@/assets/img/contract-design.jpg"
                                     class="w-full align-middle rounded-tb-lg" />
-                                <!-- <blockquote class="relative p-8 mb-4">
-                                    <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"
-                                        viewBox="0 0 583 95" class="absolute left-0 w-full block h-95-px -top-94-px">
-                                        <polygon points="-30,95 583,95 583,65" class="text-emerald-500 fill-current">
-                                        </polygon>
-                                    </svg>
-
-                                    <ul>
-
-                                        <h4 class="text-xl font-bold text-white">
-                                            Benefits of Our Web Application Development
-                                        </h4>
-                                        <li class="text-md font-light mt-2 text-white">
-                                            Improved customer engagement with intuitive UI/UX
-                                        </li>
-                                        <li class="text-md font-light mt-2 text-white"> <i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Scalable solutions
-                                            that grow with your business
-                                        </li>
-                                        <li class="text-md font-light mt-2 text-white"> <i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Enhanced security with
-                                            best industry practices
-                                        </li>
-                                        <li class="text-md font-light mt-2 text-white"> <i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Faster time-to-market
-                                            with agile development
-                                        </li>
-                                        <li class="text-md font-light mt-2 text-white"> <i
-                                                class="fas fa-dot-circle text-green-500 mr-2"></i>Competitive edge
-                                            through innovation and modern technologies
-                                        </li>
-                                    </ul>
-                                </blockquote> -->
-                            </div>
+                           </div>
                         </div>
                     </div>
                 </div>
@@ -242,7 +209,7 @@
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">
+                                                <h4 class="text-blueGray-600">
                                                     Proactive Monitoring
                                                 </h4>
                                             </div>
@@ -257,7 +224,7 @@
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">
+                                                <h4 class="text-blueGray-600">
                                                     Preventive & Corrective Maintenance
                                                 </h4>
                                             </div>
@@ -272,7 +239,7 @@
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">
+                                                <h4 class="text-blueGray-600">
                                                   Performance Optimization</h4>
                                             </div>
                                         </div>
@@ -286,7 +253,7 @@
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">Security & Compliance
+                                                <h4 class="text-blueGray-600">Security & Compliance
 
                                                 </h4>
                                             </div>
@@ -301,7 +268,7 @@
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">End-User Support</h4>
+                                                <h4 class="text-blueGray-600">End-User Support</h4>
                                             </div>
                                         </div>
                                     </li>
@@ -314,7 +281,7 @@
                                                 </span>
                                             </div>
                                             <div>
-                                                <h4 class="text-blueGray-500">Ongoing Support & Maintenance</h4>
+                                                <h4 class="text-blueGray-600">Ongoing Support & Maintenance</h4>
                                             </div>
                                         </div>
                                     </li>
@@ -322,7 +289,7 @@
                             </div>
                         </div>
                     </div>
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 
                     <div class="flex flex-wrap items-center mt-32" id="financial-modelling">
                         <div class="w-full md:w-5/12 px-4 mr-auto ml-auto">
@@ -331,7 +298,7 @@
                                 <i class="fas fa-laptop-code text-xl"></i></div>
                             <h3 class="text-3xl mb-2 font-semibold leading-normal"> Financial modelling
                             </h3>
-                            <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600">
+                            <p class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-600">
                               Sound financial planning is the backbone of sustainable growth. Our <span class="text-blueGray-700 font-bold">Financial Modelling</span> services provide businesses with accurate forecasts, scenario analysis, and data-driven insights to support investment, project evaluation, and strategic decision-making.
                                 
                             </p>
@@ -384,13 +351,13 @@
                                     </svg>
                                     <ul>
                                         <h4 class="text-xl font-bold text-white"> Benefits of Financial Modeling</h4>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Informed Decision-Making</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Investor Confidence</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Efficiency & Accuracy</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Growth Planning</li>
                                         
                                     </ul>
@@ -430,7 +397,7 @@
                                 </div>
                                <h3 class="text-3xl mb-2 font-semibold leading-normal"> Smart Infrastructure Services
                             </h3>
-                            <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"> 
+                            <p class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-600"> 
 At <span class="text-blueGray-700 font-bold">AmeiseTech</span>, we empower cities, industries, and enterprises with <span class="text-blueGray-700 font-bold">Smart Infrastructure Services</span> that combine <span class="text-blueGray-700 font-bold">IoT, AI, Cloud, and Automation</span> to build intelligent, connected, and sustainable systems.
 
                             </p>
@@ -494,7 +461,7 @@ At <span class="text-blueGray-700 font-bold">AmeiseTech</span>, we empower citie
                                 <i class="fas fa-laptop-code text-xl"></i></div>
                             <h3 class="text-3xl mb-2 font-semibold leading-normal"> Design & Engineering Services
                             </h3>
-                            <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"> 
+                            <p class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-600"> 
                                 At <span class="text-blueGray-700 font-bold">AmeiseTech</span>, we combine<span class="text-blueGray-700 font-bold"> innovation, precision, and technology</span> to deliver world-class <span class="text-blueGray-700 font-bold">  design and engineering solutions</span>. From concept to execution, our team ensures your projects are efficient, sustainable, and built for the future.
                             </p>
                             <ul class="list-none mt-6">
@@ -548,15 +515,15 @@ At <span class="text-blueGray-700 font-bold">AmeiseTech</span>, we empower citie
                                     </svg>
                                     <ul>
                                         <h4 class="text-xl font-bold text-white">What We Deliver </h4>
-                                        <li class="text-md font-light mt-2 text-white"> <i
+                                        <li class="text-md mt-2 text-white"> <i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>End-to-end product design from concept to deployment</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Scalable, future-ready engineering solutions</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Faster time-to-market with optimized workflows</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Secure, compliant, and performance-driven systems</li>
-                                        <li class="text-md font-light mt-2 text-white"></li>
+                                        <li class="text-md mt-2 text-white"></li>
                                     </ul>
                                 </blockquote>
                             </div>

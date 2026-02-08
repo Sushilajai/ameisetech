@@ -104,7 +104,7 @@
                                 
                                <h3 class="text-3xl mb-2 font-semibold leading-normal"> Why is legacy transformation important?
                             </h3>
-                            <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600 text-left"> 
+                            <p class="text-lg  leading-relaxed mt-4 mb-4 text-blueGray-600 text-left"> 
                                 Legacy transformation has become increasingly critical for organizations across all industries. As technology rapidly evolves, legacy systems – often decades old –become significant barriers to innovation and growth. These outdated systems were designed for a different era of business requirements and technological capabilities, making them ill-suited for today's digital landscape. This is where legacy transformation becomes essential, enabling organizations to replace outdated systems with modern, scalable solutions that drive efficiency, agility, and long-term success.
                             </p>
                                <h3 class="text-3xl mb-2 font-semibold leading-normal"> Benefits of legacy transformation
@@ -166,7 +166,7 @@
                                 <i class="fas fa-laptop-code text-xl"></i></div>
                             <h3 class="text-3xl mb-2 font-semibold leading-normal"> IT Consulting & Services
                             </h3>
-                            <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"> 
+                            <p class="text-lg  leading-relaxed mt-4 mb-4 text-blueGray-600"> 
                                 Technology should drive your business forward, not hold it back. At <span class="text-blueGray-700 font-bold">AmeiseTech</span>, we provide <span class="text-blueGray-700 font-bold">strategic IT consulting and end-to-end services</span> that help organizations harness technology for growth, efficiency, and innovation.
 
 Our experts partner with you to assess, plan, implement, and manage technology solutions tailored to your unique needs — enabling you to stay competitive in a fast-changing digital world.
@@ -223,14 +223,14 @@ Our experts partner with you to assess, plan, implement, and manage technology s
                                     <ul>
                                         <h4 class="text-xl font-bold text-white"> Benefits of Cloud Migration
                                             Development </h4>
-                                        <li class="text-md font-light mt-2 text-white"> Reduce IT infrastructure costs</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md  mt-2 text-white"> Reduce IT infrastructure costs</li>
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Improve scalability and flexibility</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Enhance performance and reliability</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Strengthen data security</li>
-                                        <li class="text-md font-light mt-2 text-white"><i
+                                        <li class="text-md  mt-2 text-white"><i
                                                 class="fas fa-dot-circle text-green-500 mr-2"></i>Accelerate innovation and digital transformation</li>
                                     </ul>
                                 </blockquote>
@@ -251,7 +251,7 @@ Our experts partner with you to assess, plan, implement, and manage technology s
                             <div class="md:pr-12">
                                <h3 class="text-3xl mb-2 font-semibold leading-normal text-left"> How does legacy transformation work?
                             </h3>
-                            <p class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600 text-left"> 
+                            <p class="text-lg  leading-relaxed mt-4 mb-4 text-blueGray-600 text-left"> 
 Legacy transformation works by systematically addressing the outdated components of an organization's IT ecosystem and integrating innovative solutions that align with modern technological paradigms. This involves migrating legacy applications and systems to a more flexible, scalable cloud environment – not only enhancing the systems' efficiency but also significantly reducing operational costs.
                             </p>
                                <h3 class="text-3xl mb-2 font-semibold leading-normal text-left"> Benefits of legacy transformation

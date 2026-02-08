@@ -121,12 +121,12 @@
 Railways Support systems
               </h3>
               <p
-                class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
+                class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-500"
               >
                 Indian Railways is the backbone of the nation's transportation network, and we are dedicated to enhancing its efficiency and reliability through cutting-edge technology and innovative solutions.
               </p>
               <p
-                class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600"
+                class="text-lg leading-relaxed mt-0 mb-4 text-blueGray-500"
               >
                 We specialize in rail transportation, logistics, and batteries sectors. Our team of experts is dedicated to delivering innovative solutions that drive efficiency and growth.
 
@@ -160,7 +160,7 @@ Railways Support systems
                   <h4 class="text-xl font-bold text-white">
 Railway Terminal Handling
                   </h4>
-                  <p class="text-md font-light mt-2 text-white">
+                  <p class="text-md mt-2 text-white">
 We provide efficient, safe, and reliable railway terminal handling services to ensure smooth cargo movement, reduced turnaround time, and optimized terminal operations.
                   </p>
                 </blockquote>
@@ -192,7 +192,7 @@ We provide efficient, safe, and reliable railway terminal handling services to e
                   <h4 class="text-xl font-bold text-white">
                     Port and Logistics Solutions
                   </h4>
-                  <p class="text-md font-light mt-2 text-white">
+                  <p class="text-md mt-2 text-white">
                     port and logistics solutions that optimize supply chains and enhance operational efficiency.
                   </p>
                 </blockquote>
@@ -208,12 +208,12 @@ We provide efficient, safe, and reliable railway terminal handling services to e
                 Port and Logistics Solutions
               </h3>
               <p
-                class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
+                class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-600"
               >
                 Port and logistics are critical components of global trade, and we provide innovative solutions to streamline operations and improve efficiency.
               </p>
               <p
-                class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600"
+                class="text-lg leading-relaxed mt-0 mb-4 text-blueGray-600"
               >
                 Our expertise in port management, cargo handling, and supply chain optimization enables us to deliver tailored solutions that meet the unique needs of each client.
               </p>
@@ -235,12 +235,12 @@ We provide efficient, safe, and reliable railway terminal handling services to e
                 Batteries 2nd Life Solutions
               </h3>
               <p
-                class="text-lg font-light leading-relaxed mt-4 mb-4 text-blueGray-600"
+                class="text-lg leading-relaxed mt-4 mb-4 text-blueGray-600"
               >
               Innovative second-life battery solutions that promote sustainability and reduce environmental impact.
               </p>
               <p
-                class="text-lg font-light leading-relaxed mt-0 mb-4 text-blueGray-600"
+                class="text-lg leading-relaxed mt-0 mb-4 text-blueGray-600"
               >
                 We specialize in repurposing used batteries for applications such as energy storage systems, renewable energy integration, and electric vehicle charging infrastructure.
               </p>
@@ -271,7 +271,7 @@ We provide efficient, safe, and reliable railway terminal handling services to e
                   <h4 class="text-xl font-bold text-white">
                     Batteries 2nd Life Solutions
                   </h4>
-                  <p class="text-md font-light mt-2 text-white">
+                  <p class="text-md mt-2 text-white">
                     Promote sustainability and reduce environmental impact.
                   </p>
                 </blockquote>

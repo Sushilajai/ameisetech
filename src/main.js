@@ -38,7 +38,7 @@ import SystemIntegration from "./views/system-integration.vue";
 import devopsintegration from "@/views/devops-integration.vue";
 import contactus from "./views/contactus.vue";
 import Products from "./views/product.vue";
-import partners from "./views/partners-clients.vue";
+import partners from "./views/our-network.vue";
 import industries from "./views/industries.vue";
 import sustainabilityconsulting from "./views/sustainability-consulting.vue";
 import Services from "./views/Services.vue";
@@ -120,7 +120,7 @@ const routes = [
     component: Products,
   },
   {
-    path: "/partners-clients",
+    path: "/our-network",
     component: partners,
   },
   {
