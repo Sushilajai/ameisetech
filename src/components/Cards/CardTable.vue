@@ -476,11 +476,11 @@
 <script>
 import TableDropdown from "@/components/Dropdowns/TableDropdown.vue";
 
-import bootstrap from "@/assets/img/bootstrap.jpg";
-import angular from "@/assets/img/angular.jpg";
-import sketch from "@/assets/img/sketch.jpg";
+import bootstrap from "@/assets/img/vue.jpg";
+import angular from "@/assets/img/vue.jpg";
+import sketch from "@/assets/img/vue.jpg";
 import react from "@/assets/img/react.jpg";
-import vue from "@/assets/img/react.jpg";
+import vue from "@/assets/img/vue.jpg";
 
 import team1 from "@/assets/img/team-1-800x800.jpg";
 import team2 from "@/assets/img/team-2-800x800.jpg";

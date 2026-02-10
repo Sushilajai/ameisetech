@@ -154,7 +154,7 @@
                             <div
                                 class="relative flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-lg bg-emerald-500">
                                 <img alt="..."
-                                    src="@/assets/img/Air-offset.jpg"
+                                    src="@/assets/img/Air-offset.png"
                                     class="w-full align-middle rounded-t-lg" />
                                 <blockquote class="relative p-8 mb-4">
                                     <svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"
